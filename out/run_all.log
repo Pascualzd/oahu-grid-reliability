@@ -1,0 +1,24 @@
+================================================================================
+ONE LP, THREE DEMAND INPUTS | 11 buses  16 lines  24 generators
+fleet capacity 1508.1 MW   VOLL $10000/MWh
+================================================================================
+
+actual    8760 solves in 8.2 s
+  island load   mean  743.86  sd 124.91  max 1054.26
+  unserved      0 / 8760 draws (0.000%), 0.000 MW total
+  any wire pinned  0.00% of draws
+  congestion rent  mean $0/h   max $0/h
+
+fitted   10000 solves in 6.4 s
+  island load   mean  743.60  sd  52.01  max  960.20
+  unserved      0 / 10000 draws (0.000%), 0.000 MW total
+  any wire pinned  0.00% of draws
+  congestion rent  mean $0/h   max $0/h
+
+corr     10000 solves in 6.9 s
+  island load   mean  742.97  sd 125.14  max 1215.99
+  unserved      0 / 10000 draws (0.000%), 0.000 MW total
+  any wire pinned  0.00% of draws
+  congestion rent  mean $0/h   max $0/h
+
+wrote -> /tmp/claude-0/-home-claude/d763450d-2c10-555b-89ad-10ea326140b1/scratchpad/fp/paper2/out

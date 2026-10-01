@@ -1,0 +1,411 @@
+network: 11 substations, 16 corridors, 25 circuits, 235 circuit-miles; 24 units, 1508.1 MW
+generation by bus: {'Kalaeloa': 419.0, 'Kahe': 582.1, 'Waiau': 456.6, 'Wahiawa': 50.4}
+costs 6.94 .. 240.47 $/MWh
+island total actual  mean 743.9 sd 124.9 min 472.6 max 1054.3
+island total fitted  mean 743.6 sd 52.0 min 563.5 max 960.2
+island total corr    mean 743.0 sd 125.1 min 248.0 max 1216.0
+correlation between substations: 0.47 .. 1.00, mean 0.86
+share of hours within one sigma: {'Downtown': 0.613, 'Pukele': 0.647}
+
+substation   mu     sigma   cv    day-peak share
+  Kahe         16.6    6.0  0.36  2.2%
+  CEIP         59.5    5.3  0.09  7.3%
+  Ewa Nui      48.9   13.6  0.28  6.2%
+  Waiau        57.4   10.8  0.19  7.5%
+  Wahiawa      48.2   13.4  0.28  6.2%
+  Halawa        8.8    3.4  0.39  1.1%
+  Makalapa     82.5    9.1  0.11  10.8%
+  Downtown    277.2   35.3  0.13  38.4%
+  Koolau       47.0   13.1  0.28  6.2%
+  Pukele       97.6   26.6  0.27  14.1%
+
+==== base: N-0 max loading actual 0.726 random 0.730
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 0; with a line at its limit actual 3 random 5
+  N-2: cases 128, with loss actual 7 random 10; with a line at its limit actual 49 random 66
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit random    33/10000   0.33%        531 MWh  worst   43.5 | Makalapa 33 | Waiau-Makalapa 158
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3225/ 8760  36.82%      41750 MWh  worst   28.9 | Wahiawa 3225 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4311/10000  43.11%      42547 MWh  worst   51.9 | Wahiawa 4311 | 
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit random     8/10000   0.08%        114 MWh  worst   25.5 | Makalapa 8 | Waiau-Makalapa 49
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit actual     1/ 8760   0.01%          5 MWh  worst    4.7 | Downtown 1 | Halawa-Downtown 13; Waiau-Makalapa 1
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit random    53/10000   0.53%        611 MWh  worst   45.3 | Downtown 53 | Halawa-Downtown 124; Waiau-Makalapa 57
+   N-2 both Waiau-Koolau circuits                       actual   691/ 8760   7.89%       6893 MWh  worst   30.7 | Pukele 367; Koolau 324 | Halawa-Koolau 698
+   N-2 both Waiau-Koolau circuits                       random   491/10000   4.91%       7422 MWh  worst   91.1 | Pukele 247; Koolau 244 | Halawa-Koolau 501
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual   692/ 8760   7.90%       6927 MWh  worst   30.8 | Pukele 370; Koolau 322 | Waiau-Koolau 702
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random   493/10000   4.93%       7446 MWh  worst   91.1 | Koolau 249; Pukele 244 | Waiau-Koolau 503
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      random     1/10000   0.01%          3 MWh  worst    2.5 | Downtown 1 | Halawa-Downtown 193
+   N-2 both Halawa-Downtown circuits                    actual  8661/ 8760  98.87%     590276 MWh  worst  160.3 | Downtown 8661 | Makalapa-Downtown 8663
+   N-2 both Halawa-Downtown circuits                    random  9739/10000  97.39%     679841 MWh  worst  198.8 | Downtown 9739 | Makalapa-Downtown 9743
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  8661/ 8760  98.87%     590709 MWh  worst  160.4 | Downtown 8661 | Halawa-Downtown 8663
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  9740/10000  97.40%     680328 MWh  worst  198.8 | Downtown 9740 | Halawa-Downtown 9744
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     854579 MWh  worst  163.4 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9999/10000  99.99%     973261 MWh  worst  201.0 | Pukele 9999 | 
+   N-1 limit: one CEIP-Kalaeloa circuit                random CEIP-Kalaeloa 17
+   N-1 limit: Kalaeloa-Ewa Nui                         actual CEIP-Ewa Nui 3401
+   N-1 limit: Kalaeloa-Ewa Nui                         random CEIP-Ewa Nui 4235
+   N-1 limit: CEIP-Ewa Nui                             actual Kalaeloa-Ewa Nui 2359
+   N-1 limit: CEIP-Ewa Nui                             random Kalaeloa-Ewa Nui 2523
+   N-1 limit: one Waiau-Makalapa circuit               random Waiau-Makalapa 4
+   N-1 limit: one Halawa-Downtown circuit              actual Halawa-Downtown 1
+   N-1 limit: one Halawa-Downtown circuit              random Halawa-Downtown 32
+
+==== low: N-0 max loading actual 1.000 random 1.000
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 1 random 1
+  N-1: cases 16, with loss actual 4 random 7; with a line at its limit actual 14 random 15
+  N-2: cases 128, with loss actual 60 random 91; with a line at its limit actual 124 random 127
+   N-1 one Kahe-Halawa circuit                          random     2/10000   0.02%         12 MWh  worst    6.2 | Makalapa 2 | CEIP-Ewa Nui 3480; Waiau-Makalapa 3
+   N-1 one Waiau-Makalapa circuit                       actual   427/ 8760   4.87%       4882 MWh  worst   36.0 | Makalapa 427 | Waiau-Makalapa 657; CEIP-Ewa Nui 407
+   N-1 one Waiau-Makalapa circuit                       random   457/10000   4.57%       7715 MWh  worst   83.5 | Makalapa 457 | Waiau-Makalapa 655; CEIP-Ewa Nui 391
+   N-1 one Waiau-Koolau circuit                         random     4/10000   0.04%         33 MWh  worst   21.4 | Koolau 2; Pukele 2 | CEIP-Ewa Nui 5; Waiau-Koolau 4
+   N-1 Halawa-Koolau                                    random     1/10000   0.01%          1 MWh  worst    1.0 | Pukele 1 | CEIP-Ewa Nui 1827; Waiau-Koolau 1
+   N-1 one Halawa-Downtown circuit                      actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5726; Makalapa-Downtown 2618
+   N-1 one Halawa-Downtown circuit                      random  2641/10000  26.41%      56061 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 6920; Makalapa-Downtown 2651; CEIP-Kalaeloa 7; CEIP-Ewa Nui 1
+   N-1 Makalapa-Downtown                                actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628
+   N-1 Makalapa-Downtown                                random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663
+   N-1 one Koolau-Pukele circuit                        actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 346; Koolau-Pukele 243
+   N-1 one Koolau-Pukele circuit                        random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 304; Koolau-Pukele 239
+   N-2 one Kahe-CEIP circuit + one Waiau-Makalapa circuit actual   334/ 8760   3.81%       3435 MWh  worst   32.5 | Makalapa 334 | Waiau-Makalapa 590; CEIP-Ewa Nui 320
+   N-2 one Kahe-CEIP circuit + one Waiau-Makalapa circuit random   372/10000   3.72%       6306 MWh  worst   81.2 | Makalapa 372 | Waiau-Makalapa 609; CEIP-Ewa Nui 325
+   N-2 one Kahe-CEIP circuit + one Waiau-Koolau circuit random     4/10000   0.04%         30 MWh  worst   20.7 | Pukele 3; Koolau 1 | CEIP-Ewa Nui 4; Waiau-Koolau 4
+   N-2 one Kahe-CEIP circuit + Halawa-Koolau            random     1/10000   0.01%          1 MWh  worst    1.0 | Koolau 1 | CEIP-Ewa Nui 900; Waiau-Koolau 1
+   N-2 one Kahe-CEIP circuit + one Halawa-Downtown circuit actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5710; Makalapa-Downtown 2618
+   N-2 one Kahe-CEIP circuit + one Halawa-Downtown circuit random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 6902; Makalapa-Downtown 2656; CEIP-Ewa Nui 1
+   N-2 one Kahe-CEIP circuit + Makalapa-Downtown        actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628
+   N-2 one Kahe-CEIP circuit + Makalapa-Downtown        random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663
+   N-2 one Kahe-CEIP circuit + one Koolau-Pukele circuit actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | Koolau-Pukele 243
+   N-2 one Kahe-CEIP circuit + one Koolau-Pukele circuit random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | Koolau-Pukele 239
+   N-2 one CEIP-Kalaeloa circuit + one Kahe-Halawa circuit random     2/10000   0.02%          9 MWh  worst    4.8 | Makalapa 2 | CEIP-Kalaeloa 9995; Kalaeloa-Ewa Nui 3856; Waiau-Makalapa 5
+   N-2 one CEIP-Kalaeloa circuit + one Waiau-Makalapa circuit actual   585/ 8760   6.68%       8940 MWh  worst   47.0 | Makalapa 585 | CEIP-Kalaeloa 8733; Waiau-Makalapa 785
+   N-2 one CEIP-Kalaeloa circuit + one Waiau-Makalapa circuit random   615/10000   6.15%      11881 MWh  worst   97.7 | Makalapa 615 | CEIP-Kalaeloa 9932; Waiau-Makalapa 768; Kalaeloa-Ewa Nui 3
+   N-2 one CEIP-Kalaeloa circuit + one Waiau-Koolau circuit random     4/10000   0.04%         59 MWh  worst   28.1 | Koolau 4 | CEIP-Kalaeloa 10000; Kalaeloa-Ewa Nui 19; Waiau-Koolau 5
+   N-2 one CEIP-Kalaeloa circuit + Halawa-Koolau        random     1/10000   0.01%          1 MWh  worst    1.0 | Koolau 1 | CEIP-Kalaeloa 10000; Kalaeloa-Ewa Nui 2136; Waiau-Koolau 1
+   N-2 one CEIP-Kalaeloa circuit + one Halawa-Downtown circuit actual  2605/ 8760  29.74%      48040 MWh  worst   70.2 | Downtown 2605 | CEIP-Kalaeloa 8760; Halawa-Downtown 5734; Makalapa-Downtown 2550
+   N-2 one CEIP-Kalaeloa circuit + one Halawa-Downtown circuit random  2641/10000  26.41%      56240 MWh  worst  108.7 | Downtown 2641 | CEIP-Kalaeloa 10000; Halawa-Downtown 6928; Makalapa-Downtown 2529; Kalaeloa-Ewa Nui 4
+   N-2 one CEIP-Kalaeloa circuit + Makalapa-Downtown    actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | CEIP-Kalaeloa 8760; Halawa-Downtown 2628
+   N-2 one CEIP-Kalaeloa circuit + Makalapa-Downtown    random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | CEIP-Kalaeloa 10000; Halawa-Downtown 2663; Kalaeloa-Ewa Nui 2
+   N-2 one CEIP-Kalaeloa circuit + one Koolau-Pukele circuit actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Kalaeloa 8760; Kalaeloa-Ewa Nui 742; Koolau-Pukele 243
+   N-2 one CEIP-Kalaeloa circuit + one Koolau-Pukele circuit random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Kalaeloa 10000; Kalaeloa-Ewa Nui 770; Koolau-Pukele 239
+   N-2 Kalaeloa-Ewa Nui + Kahe-Waiau                    random     4/10000   0.04%         86 MWh  worst   41.3 | Ewa Nui 4 | CEIP-Kalaeloa 9964; CEIP-Ewa Nui 9900
+   N-2 Kalaeloa-Ewa Nui + one Kahe-Halawa circuit       random    17/10000   0.17%        239 MWh  worst   42.0 | Makalapa 17; Ewa Nui 2 | CEIP-Ewa Nui 9862; CEIP-Kalaeloa 8945; Waiau-Makalapa 22
+   N-2 Kalaeloa-Ewa Nui + Kahe-Wahiawa                  random     4/10000   0.04%         56 MWh  worst   35.4 | Ewa Nui 4 | CEIP-Ewa Nui 9869; CEIP-Kalaeloa 9567
+   N-2 Kalaeloa-Ewa Nui + Wahiawa-Waiau                 random     1/10000   0.01%          7 MWh  worst    7.1 | Ewa Nui 1 | CEIP-Ewa Nui 9784; CEIP-Kalaeloa 9734
+   N-2 Kalaeloa-Ewa Nui + one Waiau-Makalapa circuit    actual  1415/ 8760  16.15%      32861 MWh  worst   68.9 | Makalapa 1415 | CEIP-Ewa Nui 8567; CEIP-Kalaeloa 5188; Waiau-Makalapa 3589
+   N-2 Kalaeloa-Ewa Nui + one Waiau-Makalapa circuit    random  1423/10000  14.23%      34728 MWh  worst  118.1 | Makalapa 1423; Downtown 2 | CEIP-Ewa Nui 9410; CEIP-Kalaeloa 6028; Waiau-Makalapa 3997
+   N-2 Kalaeloa-Ewa Nui + one Waiau-Koolau circuit      random     6/10000   0.06%         98 MWh  worst   34.3 | Pukele 5; Makalapa 2; Koolau 1 | CEIP-Kalaeloa 9820; CEIP-Ewa Nui 9525; Waiau-Koolau 6; Waiau-Makalapa 4
+   N-2 Kalaeloa-Ewa Nui + Halawa-Koolau                 random     1/10000   0.01%         16 MWh  worst   16.5 | Ewa Nui 1; Pukele 1 | CEIP-Ewa Nui 9659; CEIP-Kalaeloa 9500; Waiau-Koolau 1
+   N-2 Kalaeloa-Ewa Nui + one Halawa-Downtown circuit   actual  2617/ 8760  29.87%      49877 MWh  worst   70.2 | Downtown 2617 | CEIP-Kalaeloa 8530; Halawa-Downtown 5053; CEIP-Ewa Nui 3684; Makalapa-Downtown 1677
+   N-2 Kalaeloa-Ewa Nui + one Halawa-Downtown circuit   random  2650/10000  26.50%      57655 MWh  worst  111.6 | Downtown 2650 | CEIP-Kalaeloa 9884; Halawa-Downtown 5841; CEIP-Ewa Nui 3867; Makalapa-Downtown 2007
+   N-2 Kalaeloa-Ewa Nui + Makalapa-Downtown             actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | CEIP-Kalaeloa 8760; CEIP-Ewa Nui 8552; Halawa-Downtown 2628
+   N-2 Kalaeloa-Ewa Nui + Makalapa-Downtown             random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | CEIP-Kalaeloa 9930; CEIP-Ewa Nui 9373; Halawa-Downtown 2663
+   N-2 Kalaeloa-Ewa Nui + one Koolau-Pukele circuit     actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 8684; CEIP-Kalaeloa 8383; Koolau-Pukele 243
+   N-2 Kalaeloa-Ewa Nui + one Koolau-Pukele circuit     random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Kalaeloa 9687; CEIP-Ewa Nui 9587; Koolau-Pukele 239
+   N-2 CEIP-Ewa Nui + Kahe-Waiau                        random     1/10000   0.01%         19 MWh  worst   19.3 | Ewa Nui 1 | Kalaeloa-Ewa Nui 9885
+   N-2 CEIP-Ewa Nui + one Kahe-Halawa circuit           random     6/10000   0.06%         51 MWh  worst   15.0 | Makalapa 6; Ewa Nui 1 | Kalaeloa-Ewa Nui 9821; Waiau-Makalapa 8
+   N-2 CEIP-Ewa Nui + Kahe-Wahiawa                      random     1/10000   0.01%         12 MWh  worst   12.1 | Ewa Nui 1 | Kalaeloa-Ewa Nui 9831
+   N-2 CEIP-Ewa Nui + one Waiau-Makalapa circuit        actual   820/ 8760   9.36%      14479 MWh  worst   53.0 | Makalapa 820 | Kalaeloa-Ewa Nui 8416; Waiau-Makalapa 3132
+   N-2 CEIP-Ewa Nui + one Waiau-Makalapa circuit        random   790/10000   7.90%      16721 MWh  worst  101.3 | Makalapa 790 | Kalaeloa-Ewa Nui 9214; Waiau-Makalapa 3425
+   N-2 CEIP-Ewa Nui + one Waiau-Koolau circuit          random     4/10000   0.04%         62 MWh  worst   28.6 | Pukele 4 | Kalaeloa-Ewa Nui 9334; Waiau-Koolau 4; Waiau-Makalapa 2
+   N-2 CEIP-Ewa Nui + Halawa-Koolau                     random     1/10000   0.01%          1 MWh  worst    1.0 | Koolau 1 | Kalaeloa-Ewa Nui 9552; Waiau-Koolau 1
+   N-2 CEIP-Ewa Nui + one Halawa-Downtown circuit       actual  2605/ 8760  29.74%      48100 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5219; Kalaeloa-Ewa Nui 3456; Makalapa-Downtown 2498
+   N-2 CEIP-Ewa Nui + one Halawa-Downtown circuit       random  2642/10000  26.42%      56404 MWh  worst  108.7 | Downtown 2642 | Halawa-Downtown 6133; Kalaeloa-Ewa Nui 3481; Makalapa-Downtown 2492
+   N-2 CEIP-Ewa Nui + Makalapa-Downtown                 actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Kalaeloa-Ewa Nui 8387; Halawa-Downtown 2628
+   N-2 CEIP-Ewa Nui + Makalapa-Downtown                 random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Kalaeloa-Ewa Nui 9188; Halawa-Downtown 2663
+   N-2 CEIP-Ewa Nui + one Koolau-Pukele circuit         actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | Kalaeloa-Ewa Nui 8578; Koolau-Pukele 243
+   N-2 CEIP-Ewa Nui + one Koolau-Pukele circuit         random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | Kalaeloa-Ewa Nui 9447; Koolau-Pukele 239
+   N-2 one Ewa Nui-Waiau circuit + one Waiau-Makalapa circuit actual   362/ 8760   4.13%       3754 MWh  worst   31.4 | Makalapa 362 | Ewa Nui-Waiau 5147; Waiau-Makalapa 782
+   N-2 one Ewa Nui-Waiau circuit + one Waiau-Makalapa circuit random   396/10000   3.96%       6614 MWh  worst   76.3 | Makalapa 396 | Ewa Nui-Waiau 6351; Waiau-Makalapa 871
+   N-2 one Ewa Nui-Waiau circuit + one Waiau-Koolau circuit random     2/10000   0.02%         21 MWh  worst   15.8 | Koolau 2 | Ewa Nui-Waiau 6731; Waiau-Koolau 4
+   N-2 one Ewa Nui-Waiau circuit + Halawa-Koolau        random     1/10000   0.01%          1 MWh  worst    1.0 | Pukele 1 | Ewa Nui-Waiau 7946; Waiau-Koolau 1
+   N-2 one Ewa Nui-Waiau circuit + one Halawa-Downtown circuit actual  2605/ 8760  29.74%      48004 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5961; Makalapa-Downtown 2616; Ewa Nui-Waiau 611; CEIP-Kalaeloa 6
+   N-2 one Ewa Nui-Waiau circuit + one Halawa-Downtown circuit random  2641/10000  26.41%      56158 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 7304; Makalapa-Downtown 2587; Ewa Nui-Waiau 801; CEIP-Kalaeloa 72
+   N-2 one Ewa Nui-Waiau circuit + Makalapa-Downtown    actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Ewa Nui-Waiau 5021; Halawa-Downtown 2628
+   N-2 one Ewa Nui-Waiau circuit + Makalapa-Downtown    random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Ewa Nui-Waiau 6188; Halawa-Downtown 2663
+   N-2 one Ewa Nui-Waiau circuit + one Koolau-Pukele circuit actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | Ewa Nui-Waiau 5950; Koolau-Pukele 243
+   N-2 one Ewa Nui-Waiau circuit + one Koolau-Pukele circuit random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | Ewa Nui-Waiau 7256; Koolau-Pukele 239
+   N-2 Kahe-Waiau + one Waiau-Makalapa circuit          actual   177/ 8760   2.02%       1370 MWh  worst   24.2 | Makalapa 177 | CEIP-Ewa Nui 3258; Waiau-Makalapa 362
+   N-2 Kahe-Waiau + one Waiau-Makalapa circuit          random   225/10000   2.25%       3650 MWh  worst   72.0 | Makalapa 225 | CEIP-Ewa Nui 4005; Waiau-Makalapa 370
+   N-2 Kahe-Waiau + one Waiau-Koolau circuit            random     2/10000   0.02%         22 MWh  worst   17.1 | Koolau 1; Pukele 1 | CEIP-Ewa Nui 4213; Waiau-Koolau 2
+   N-2 Kahe-Waiau + Halawa-Koolau                       random     1/10000   0.01%          1 MWh  worst    1.0 | Pukele 1 | CEIP-Ewa Nui 5531; Waiau-Koolau 1
+   N-2 Kahe-Waiau + one Halawa-Downtown circuit         actual  2605/ 8760  29.74%      48004 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 6278; Makalapa-Downtown 2616; CEIP-Ewa Nui 17; CEIP-Kalaeloa 3
+   N-2 Kahe-Waiau + one Halawa-Downtown circuit         random  2641/10000  26.41%      56169 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 7723; Makalapa-Downtown 2593; CEIP-Ewa Nui 118; CEIP-Kalaeloa 67
+   N-2 Kahe-Waiau + Makalapa-Downtown                   actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | CEIP-Ewa Nui 3078; Halawa-Downtown 2628
+   N-2 Kahe-Waiau + Makalapa-Downtown                   random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | CEIP-Ewa Nui 3776; Halawa-Downtown 2663
+   N-2 Kahe-Waiau + one Koolau-Pukele circuit           actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 3650; Koolau-Pukele 243
+   N-2 Kahe-Waiau + one Koolau-Pukele circuit           random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 4666; Koolau-Pukele 239
+   N-2 two of the 3 Kahe-Halawa circuits                actual   824/ 8760   9.41%      15537 MWh  worst   56.4 | Makalapa 824; Downtown 3 | CEIP-Ewa Nui 5561; Waiau-Makalapa 1061; Kahe-Halawa 827; Makalapa-Downtown 3
+   N-2 two of the 3 Kahe-Halawa circuits                random   819/10000   8.19%      18925 MWh  worst  113.9 | Makalapa 819; Downtown 82 | CEIP-Ewa Nui 7008; Waiau-Makalapa 1059; Kahe-Halawa 819; Makalapa-Downtown 83
+   N-2 one Kahe-Halawa circuit + Wahiawa-Waiau          random     2/10000   0.02%          4 MWh  worst    2.4 | Makalapa 2 | CEIP-Ewa Nui 4858; Waiau-Makalapa 3
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit actual  4453/ 8760  50.83%     146126 MWh  worst  107.8 | Makalapa 4453; Downtown 3 | Waiau-Makalapa 5338; CEIP-Ewa Nui 2052
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit random  4762/10000  47.62%     154620 MWh  worst  167.9 | Makalapa 4762; Downtown 61 | Waiau-Makalapa 6297; CEIP-Ewa Nui 1970
+   N-2 one Kahe-Halawa circuit + one Waiau-Koolau circuit random    37/10000   0.37%        813 MWh  worst   69.6 | Makalapa 34; Koolau 7; Pukele 6; Downtown 3 | CEIP-Ewa Nui 3105; Waiau-Makalapa 52; Waiau-Koolau 16; Makalapa-Downtown 3
+   N-2 one Kahe-Halawa circuit + Halawa-Koolau          random     1/10000   0.01%          1 MWh  worst    1.0 | Pukele 1 | CEIP-Ewa Nui 3935; Waiau-Koolau 1
+   N-2 one Kahe-Halawa circuit + Halawa-Makalapa        random    18/10000   0.18%        216 MWh  worst   29.9 | Downtown 18 | CEIP-Ewa Nui 3353; Makalapa-Downtown 24
+   N-2 one Kahe-Halawa circuit + one Halawa-Downtown circuit actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 4822; Makalapa-Downtown 2618; CEIP-Ewa Nui 239
+   N-2 one Kahe-Halawa circuit + one Halawa-Downtown circuit random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 5359; Makalapa-Downtown 2656; CEIP-Ewa Nui 426
+   N-2 one Kahe-Halawa circuit + Makalapa-Downtown      actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628; CEIP-Ewa Nui 2395
+   N-2 one Kahe-Halawa circuit + Makalapa-Downtown      random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663; CEIP-Ewa Nui 2624
+   N-2 one Kahe-Halawa circuit + one Koolau-Pukele circuit actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 2951; Koolau-Pukele 243
+   N-2 one Kahe-Halawa circuit + one Koolau-Pukele circuit random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 3480; Koolau-Pukele 239; Waiau-Makalapa 1
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3225/ 8760  36.82%      41750 MWh  worst   28.9 | Wahiawa 3225 | CEIP-Ewa Nui 2017
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4311/10000  43.11%      42547 MWh  worst   51.9 | Wahiawa 4311 | CEIP-Ewa Nui 2027
+   N-2 Kahe-Wahiawa + one Waiau-Makalapa circuit        actual   237/ 8760   2.71%       2104 MWh  worst   27.5 | Makalapa 237 | CEIP-Ewa Nui 2842; Waiau-Makalapa 362
+   N-2 Kahe-Wahiawa + one Waiau-Makalapa circuit        random   265/10000   2.65%       4533 MWh  worst   74.7 | Makalapa 265 | CEIP-Ewa Nui 3307; Waiau-Makalapa 370
+   N-2 Kahe-Wahiawa + one Waiau-Koolau circuit          random     2/10000   0.02%         24 MWh  worst   17.8 | Koolau 1; Pukele 1 | CEIP-Ewa Nui 3522; Waiau-Koolau 2
+   N-2 Kahe-Wahiawa + Halawa-Koolau                     random     1/10000   0.01%          1 MWh  worst    1.0 | Koolau 1 | CEIP-Ewa Nui 4799; Waiau-Koolau 1
+   N-2 Kahe-Wahiawa + one Halawa-Downtown circuit       actual  2605/ 8760  29.74%      48004 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 6168; Makalapa-Downtown 2616; CEIP-Ewa Nui 5; CEIP-Kalaeloa 4
+   N-2 Kahe-Wahiawa + one Halawa-Downtown circuit       random  2641/10000  26.41%      56179 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 7584; Makalapa-Downtown 2589; CEIP-Kalaeloa 76; CEIP-Ewa Nui 75
+   N-2 Kahe-Wahiawa + Makalapa-Downtown                 actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | CEIP-Ewa Nui 2670; Halawa-Downtown 2628
+   N-2 Kahe-Wahiawa + Makalapa-Downtown                 random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | CEIP-Ewa Nui 3068; Halawa-Downtown 2663
+   N-2 Kahe-Wahiawa + one Koolau-Pukele circuit         actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 3217; Koolau-Pukele 243
+   N-2 Kahe-Wahiawa + one Koolau-Pukele circuit         random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 3948; Koolau-Pukele 239
+   N-2 Wahiawa-Waiau + one Waiau-Makalapa circuit       actual   284/ 8760   3.24%       2788 MWh  worst   30.7 | Makalapa 284 | CEIP-Ewa Nui 888; Waiau-Makalapa 499
+   N-2 Wahiawa-Waiau + one Waiau-Makalapa circuit       random   304/10000   3.04%       5249 MWh  worst   79.1 | Makalapa 304 | CEIP-Ewa Nui 993; Waiau-Makalapa 480
+   N-2 Wahiawa-Waiau + one Waiau-Koolau circuit         random     2/10000   0.02%         28 MWh  worst   20.2 | Pukele 2 | CEIP-Ewa Nui 996; Waiau-Koolau 4
+   N-2 Wahiawa-Waiau + Halawa-Koolau                    random     1/10000   0.01%          1 MWh  worst    1.0 | Pukele 1 | CEIP-Ewa Nui 2801; Waiau-Koolau 1
+   N-2 Wahiawa-Waiau + one Halawa-Downtown circuit      actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5893; Makalapa-Downtown 2618
+   N-2 Wahiawa-Waiau + one Halawa-Downtown circuit      random  2641/10000  26.41%      56060 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 7158; Makalapa-Downtown 2651; CEIP-Ewa Nui 6; CEIP-Kalaeloa 5
+   N-2 Wahiawa-Waiau + Makalapa-Downtown                actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628; CEIP-Ewa Nui 565
+   N-2 Wahiawa-Waiau + Makalapa-Downtown                random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663; CEIP-Ewa Nui 597
+   N-2 Wahiawa-Waiau + one Koolau-Pukele circuit        actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 1809; Koolau-Pukele 243
+   N-2 Wahiawa-Waiau + one Koolau-Pukele circuit        random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 1808; Koolau-Pukele 239
+   N-2 both Waiau-Makalapa circuits                     actual   133/ 8760   1.52%        743 MWh  worst   26.3 | Downtown 133 | Halawa-Downtown 141
+   N-2 both Waiau-Makalapa circuits                     random   268/10000   2.68%       3635 MWh  worst   67.7 | Downtown 268; Makalapa 26; Koolau 1; Pukele 1 | Halawa-Downtown 272; Halawa-Makalapa 26; Kahe-Halawa 5; Waiau-Koolau 3
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit actual  1917/ 8760  21.88%      40380 MWh  worst   70.1 | Makalapa 1917 | Waiau-Makalapa 2881; CEIP-Ewa Nui 702
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit random  2068/10000  20.68%      47121 MWh  worst  131.3 | Makalapa 2068; Downtown 3; Pukele 3; Koolau 1 | Waiau-Makalapa 2831; CEIP-Ewa Nui 435; Waiau-Koolau 4
+   N-2 one Waiau-Makalapa circuit + Halawa-Koolau       random    28/10000   0.28%        384 MWh  worst   34.4 | Makalapa 28; Pukele 1 | CEIP-Ewa Nui 780; Waiau-Makalapa 66; Waiau-Koolau 1; Halawa-Downtown 1
+   N-2 one Waiau-Makalapa circuit + Halawa-Makalapa     actual  1792/ 8760  20.46%      26352 MWh  worst   49.3 | Makalapa 1792 | Waiau-Makalapa 2374; CEIP-Ewa Nui 1273
+   N-2 one Waiau-Makalapa circuit + Halawa-Makalapa     random  1892/10000  18.92%      30354 MWh  worst   83.8 | Makalapa 1892 | Waiau-Makalapa 2334; CEIP-Ewa Nui 985
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit actual  5727/ 8760  65.38%     243248 MWh  worst  120.0 | Downtown 5727 | Halawa-Downtown 6285; Waiau-Makalapa 5731
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit random  6912/10000  69.12%     269976 MWh  worst  160.6 | Downtown 6912; Makalapa 1 | Halawa-Downtown 7789; Waiau-Makalapa 6917; CEIP-Ewa Nui 1
+   N-2 one Waiau-Makalapa circuit + Makalapa-Downtown   actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628
+   N-2 one Waiau-Makalapa circuit + Makalapa-Downtown   random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663; Waiau-Makalapa 2
+   N-2 one Waiau-Makalapa circuit + one Koolau-Pukele circuit actual   465/ 8760   5.31%       5641 MWh  worst   43.0 | Makalapa 422; Pukele 237 | Waiau-Makalapa 657; CEIP-Ewa Nui 403; Koolau-Pukele 243
+   N-2 one Waiau-Makalapa circuit + one Koolau-Pukele circuit random   508/10000   5.08%       9349 MWh  worst  113.1 | Makalapa 451; Pukele 237 | Waiau-Makalapa 652; CEIP-Ewa Nui 386; Koolau-Pukele 239
+   N-2 both Waiau-Koolau circuits                       actual  3430/ 8760  39.16%     125901 MWh  worst   90.6 | Pukele 1774; Koolau 1772 | Halawa-Koolau 3434
+   N-2 both Waiau-Koolau circuits                       random  4426/10000  44.26%     130095 MWh  worst  151.0 | Pukele 2350; Koolau 2200 | Halawa-Koolau 4447; Waiau-Makalapa 8
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual  3430/ 8760  39.16%     125901 MWh  worst   90.6 | Koolau 1788; Pukele 1757 | Waiau-Koolau 3434; CEIP-Ewa Nui 1201
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random  4426/10000  44.26%     130095 MWh  worst  151.0 | Pukele 2339; Koolau 2200 | Waiau-Koolau 4447; CEIP-Ewa Nui 875
+   N-2 one Waiau-Koolau circuit + Halawa-Makalapa       random     4/10000   0.04%         68 MWh  worst   30.1 | Koolau 2; Pukele 2 | CEIP-Ewa Nui 9; Waiau-Koolau 9
+   N-2 one Waiau-Koolau circuit + one Halawa-Downtown circuit actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 5342; Makalapa-Downtown 2618
+   N-2 one Waiau-Koolau circuit + one Halawa-Downtown circuit random  2641/10000  26.41%      56092 MWh  worst  108.7 | Downtown 2641; Pukele 1 | Halawa-Downtown 6247; Makalapa-Downtown 2652; CEIP-Ewa Nui 4; Waiau-Koolau 4; Halawa-Koolau 1
+   N-2 one Waiau-Koolau circuit + Makalapa-Downtown     actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628
+   N-2 one Waiau-Koolau circuit + Makalapa-Downtown     random  2641/10000  26.41%      56102 MWh  worst  108.7 | Downtown 2641; Koolau 2; Pukele 2 | Halawa-Downtown 2663; Waiau-Koolau 7; CEIP-Ewa Nui 4
+   N-2 one Waiau-Koolau circuit + one Koolau-Pukele circuit actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | Koolau-Pukele 243
+   N-2 one Waiau-Koolau circuit + one Koolau-Pukele circuit random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | Koolau-Pukele 239; CEIP-Ewa Nui 1
+   N-2 Halawa-Koolau + Halawa-Makalapa                  random     1/10000   0.01%          1 MWh  worst    1.0 | Koolau 1 | CEIP-Ewa Nui 2610; Halawa-Downtown 2; Waiau-Koolau 1
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      actual  2679/ 8760  30.58%      54661 MWh  worst   71.8 | Downtown 2679 | Halawa-Downtown 6399; Makalapa-Downtown 1414; CEIP-Kalaeloa 1187
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      random  2685/10000  26.85%      61452 MWh  worst  116.8 | Downtown 2685; Pukele 1 | Halawa-Downtown 7900; Makalapa-Downtown 1596; CEIP-Kalaeloa 865; Waiau-Koolau 1
+   N-2 Halawa-Koolau + Makalapa-Downtown                actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628; CEIP-Ewa Nui 1131
+   N-2 Halawa-Koolau + Makalapa-Downtown                random  2641/10000  26.41%      56056 MWh  worst  108.7 | Downtown 2641; Pukele 1 | Halawa-Downtown 2663; CEIP-Ewa Nui 877; Waiau-Koolau 1
+   N-2 Halawa-Koolau + one Koolau-Pukele circuit        actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 1918; Koolau-Pukele 243
+   N-2 Halawa-Koolau + one Koolau-Pukele circuit        random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 1827; Koolau-Pukele 239
+   N-2 Halawa-Makalapa + one Halawa-Downtown circuit    actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 7348; Makalapa-Downtown 2618
+   N-2 Halawa-Makalapa + one Halawa-Downtown circuit    random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 8734; Makalapa-Downtown 2656
+   N-2 Halawa-Makalapa + Makalapa-Downtown              actual  2605/ 8760  29.74%      48003 MWh  worst   70.2 | Downtown 2605 | Halawa-Downtown 2628
+   N-2 Halawa-Makalapa + Makalapa-Downtown              random  2641/10000  26.41%      56055 MWh  worst  108.7 | Downtown 2641 | Halawa-Downtown 2663
+   N-2 Halawa-Makalapa + one Koolau-Pukele circuit      actual   237/ 8760   2.71%       1007 MWh  worst   13.4 | Pukele 237 | CEIP-Ewa Nui 854; Koolau-Pukele 243
+   N-2 Halawa-Makalapa + one Koolau-Pukele circuit      random   237/10000   2.37%       2130 MWh  worst   51.0 | Pukele 237 | CEIP-Ewa Nui 823; Koolau-Pukele 239
+   N-2 both Halawa-Downtown circuits                    actual  8760/ 8760 100.00%    1114463 MWh  worst  220.2 | Downtown 8760 | Makalapa-Downtown 8760; CEIP-Ewa Nui 118
+   N-2 both Halawa-Downtown circuits                    random  9999/10000  99.99%    1274920 MWh  worst  258.7 | Downtown 9999 | Makalapa-Downtown 9999; CEIP-Ewa Nui 179
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  8760/ 8760 100.00%    1114463 MWh  worst  220.2 | Downtown 8760 | Halawa-Downtown 8760
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  9999/10000  99.99%    1274920 MWh  worst  258.7 | Downtown 9999 | Halawa-Downtown 9999; CEIP-Ewa Nui 36
+   N-2 one Halawa-Downtown circuit + one Koolau-Pukele circuit actual  2605/ 8760  29.74%      49010 MWh  worst   70.2 | Downtown 2605; Pukele 237 | Halawa-Downtown 5726; Makalapa-Downtown 2618; Koolau-Pukele 243
+   N-2 one Halawa-Downtown circuit + one Koolau-Pukele circuit random  2651/10000  26.51%      58191 MWh  worst  130.7 | Downtown 2641; Pukele 237 | Halawa-Downtown 6920; Makalapa-Downtown 2651; Koolau-Pukele 239; CEIP-Kalaeloa 5; CEIP-Ewa Nui 1
+   N-2 Makalapa-Downtown + one Koolau-Pukele circuit    actual  2605/ 8760  29.74%      49010 MWh  worst   70.2 | Downtown 2605; Pukele 237 | Halawa-Downtown 2628; Koolau-Pukele 243
+   N-2 Makalapa-Downtown + one Koolau-Pukele circuit    random  2651/10000  26.51%      58185 MWh  worst  130.4 | Downtown 2641; Pukele 237 | Halawa-Downtown 2663; Koolau-Pukele 239
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     854579 MWh  worst  163.4 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9999/10000  99.99%     973261 MWh  worst  201.0 | Pukele 9999 | CEIP-Ewa Nui 1
+
+==== high: N-0 max loading actual 0.478 random 0.481
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-2: cases 128, with loss actual 4 random 4; with a line at its limit actual 2 random 2
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3225/ 8760  36.82%      41750 MWh  worst   28.9 | Wahiawa 3225 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4311/10000  43.11%      42547 MWh  worst   51.9 | Wahiawa 4311 | 
+   N-2 both Halawa-Downtown circuits                    actual  1105/ 8760  12.61%      14828 MWh  worst   51.6 | Downtown 1105 | Makalapa-Downtown 1120
+   N-2 both Halawa-Downtown circuits                    random  1212/10000  12.12%      21211 MWh  worst   90.1 | Downtown 1212 | Makalapa-Downtown 1234
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  1105/ 8760  12.61%      14828 MWh  worst   51.6 | Downtown 1105 | Halawa-Downtown 1120
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  1212/10000  12.12%      21211 MWh  worst   90.1 | Downtown 1212 | Halawa-Downtown 1234
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     854579 MWh  worst  163.4 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9999/10000  99.99%     973261 MWh  worst  201.0 | Pukele 9999 | 
+
+==== puc: N-0 max loading actual 0.740 random 0.745
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 1; with a line at its limit actual 2 random 5
+  N-2: cases 128, with loss actual 6 random 21; with a line at its limit actual 37 random 71
+   N-1 one Koolau-Pukele circuit                        random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 one Kahe-CEIP circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 one CEIP-Kalaeloa circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | CEIP-Kalaeloa 19; Koolau-Pukele 6
+   N-2 Kalaeloa-Ewa Nui + one Koolau-Pukele circuit     random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | CEIP-Ewa Nui 4687; Koolau-Pukele 6
+   N-2 CEIP-Ewa Nui + one Koolau-Pukele circuit         random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Kalaeloa-Ewa Nui 2969; Koolau-Pukele 6
+   N-2 one Ewa Nui-Waiau circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Kahe-Waiau + one Koolau-Pukele circuit           random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 one Kahe-Halawa circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  4041/ 8760  46.13%      55625 MWh  worst   32.2 | Wahiawa 4041 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  5467/10000  54.67%      61795 MWh  worst   54.4 | Wahiawa 5467 | 
+   N-2 Kahe-Wahiawa + one Koolau-Pukele circuit         random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Wahiawa-Waiau + one Koolau-Pukele circuit        random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 one Waiau-Makalapa circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 both Waiau-Koolau circuits                       actual  4021/ 8760  45.90%     219388 MWh  worst  137.1 | Koolau 2014; Pukele 2007 | Halawa-Koolau 4030
+   N-2 both Waiau-Koolau circuits                       random  5309/10000  53.09%     240598 MWh  worst  204.1 | Koolau 2801; Pukele 2511 | Halawa-Koolau 5332
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual  4022/ 8760  45.91%     219589 MWh  worst  137.1 | Koolau 2092; Pukele 1930 | Waiau-Koolau 4032
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random  5315/10000  53.15%     240863 MWh  worst  204.2 | Koolau 2679; Pukele 2639 | Waiau-Koolau 5338
+   N-2 one Waiau-Koolau circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Halawa-Koolau + one Koolau-Pukele circuit        random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Halawa-Makalapa + one Koolau-Pukele circuit      random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 both Halawa-Downtown circuits                    actual   875/ 8760   9.99%       5710 MWh  worst   33.0 | Downtown 875 | Makalapa-Downtown 895
+   N-2 both Halawa-Downtown circuits                    random   983/10000   9.83%      10731 MWh  worst   58.3 | Downtown 983 | Makalapa-Downtown 996
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual   880/ 8760  10.05%       5754 MWh  worst   33.0 | Downtown 880 | Halawa-Downtown 895
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random   986/10000   9.86%      10781 MWh  worst   58.4 | Downtown 986 | Halawa-Downtown 1000
+   N-2 one Halawa-Downtown circuit + one Koolau-Pukele circuit random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 Makalapa-Downtown + one Koolau-Pukele circuit    random     6/10000   0.06%         39 MWh  worst    9.8 | Pukele 6 | Koolau-Pukele 6
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%    1025294 MWh  worst  190.6 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9999/10000  99.99%    1169597 MWh  worst  219.6 | Pukele 9999 | 
+
+==== noise10: N-0 max loading actual 0.729 random 0.731
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 0; with a line at its limit actual 2 random 5
+  N-2: cases 128, with loss actual 7 random 11; with a line at its limit actual 47 random 67
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit random    36/10000   0.36%        528 MWh  worst   47.8 | Makalapa 36 | Waiau-Makalapa 159
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3238/ 8760  36.96%      41895 MWh  worst   30.6 | Wahiawa 3238 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4299/10000  42.99%      42870 MWh  worst   50.7 | Wahiawa 4299 | 
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit random     7/10000   0.07%        110 MWh  worst   28.7 | Makalapa 7 | Waiau-Makalapa 49
+   N-2 one Waiau-Makalapa circuit + Halawa-Makalapa     random     1/10000   0.01%          2 MWh  worst    1.7 | Makalapa 1 | Waiau-Makalapa 12
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit actual     1/ 8760   0.01%          2 MWh  worst    1.7 | Downtown 1 | Halawa-Downtown 21; Waiau-Makalapa 1
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit random    56/10000   0.56%        661 MWh  worst   41.0 | Downtown 56 | Halawa-Downtown 128; Waiau-Makalapa 58
+   N-2 both Waiau-Koolau circuits                       actual   703/ 8760   8.03%       7064 MWh  worst   33.9 | Koolau 362; Pukele 341 | Halawa-Koolau 708
+   N-2 both Waiau-Koolau circuits                       random   504/10000   5.04%       7555 MWh  worst   92.2 | Koolau 252; Pukele 252 | Halawa-Koolau 507
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual   704/ 8760   8.04%       7099 MWh  worst   34.0 | Pukele 406; Koolau 298 | Waiau-Koolau 712
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random   506/10000   5.06%       7580 MWh  worst   92.2 | Koolau 264; Pukele 242 | Waiau-Koolau 507
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      random     1/10000   0.01%          4 MWh  worst    3.5 | Downtown 1 | Halawa-Downtown 202
+   N-2 both Halawa-Downtown circuits                    actual  8644/ 8760  98.68%     590333 MWh  worst  157.9 | Downtown 8644 | Makalapa-Downtown 8648
+   N-2 both Halawa-Downtown circuits                    random  9735/10000  97.35%     679887 MWh  worst  194.5 | Downtown 9735 | Makalapa-Downtown 9739
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  8644/ 8760  98.68%     590765 MWh  worst  157.9 | Downtown 8644 | Halawa-Downtown 8648
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  9735/10000  97.35%     680374 MWh  worst  194.5 | Downtown 9735 | Halawa-Downtown 9739
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     854113 MWh  worst  166.1 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9999/10000  99.99%     973045 MWh  worst  202.8 | Pukele 9999 | 
+
+==== noise25: N-0 max loading actual 0.731 random 0.731
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 0; with a line at its limit actual 3 random 5
+  N-2: cases 128, with loss actual 8 random 14; with a line at its limit actual 49 random 68
+   N-2 one CEIP-Kalaeloa circuit + one Waiau-Makalapa circuit random     1/10000   0.01%          4 MWh  worst    3.7 | Makalapa 1 | CEIP-Kalaeloa 34; Waiau-Makalapa 5
+   N-2 Kalaeloa-Ewa Nui + one Halawa-Downtown circuit   random     1/10000   0.01%          0 MWh  worst    0.1 | Downtown 1 | CEIP-Ewa Nui 4598; Halawa-Downtown 42
+   N-2 CEIP-Ewa Nui + one Halawa-Downtown circuit       random     1/10000   0.01%          0 MWh  worst    0.4 | Downtown 1 | Kalaeloa-Ewa Nui 2873; Halawa-Downtown 78
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit actual     1/ 8760   0.01%          8 MWh  worst    8.4 | Makalapa 1 | Waiau-Makalapa 102
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit random    44/10000   0.44%        574 MWh  worst   54.5 | Makalapa 44 | Waiau-Makalapa 165
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3318/ 8760  37.88%      42682 MWh  worst   35.3 | Wahiawa 3318 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4345/10000  43.45%      44282 MWh  worst   48.9 | Wahiawa 4345 | 
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit random     9/10000   0.09%        118 MWh  worst   36.3 | Makalapa 9 | Waiau-Makalapa 55
+   N-2 one Waiau-Makalapa circuit + Halawa-Makalapa     random     1/10000   0.01%          6 MWh  worst    5.7 | Makalapa 1 | Waiau-Makalapa 13
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit actual     8/ 8760   0.09%         23 MWh  worst    9.1 | Downtown 8 | Halawa-Downtown 42; Waiau-Makalapa 8
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit random    69/10000   0.69%        822 MWh  worst   41.9 | Downtown 69 | Halawa-Downtown 153; Waiau-Makalapa 70
+   N-2 both Waiau-Koolau circuits                       actual   733/ 8760   8.37%       8002 MWh  worst   45.7 | Koolau 385; Pukele 348 | Halawa-Koolau 740
+   N-2 both Waiau-Koolau circuits                       random   508/10000   5.08%       8120 MWh  worst   93.8 | Pukele 299; Koolau 209 | Halawa-Koolau 519
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual   734/ 8760   8.38%       8038 MWh  worst   45.7 | Pukele 377; Koolau 357 | Waiau-Koolau 744
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random   511/10000   5.11%       8146 MWh  worst   93.9 | Pukele 258; Koolau 253 | Waiau-Koolau 521
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      random     1/10000   0.01%         10 MWh  worst   10.4 | Downtown 1 | Halawa-Downtown 225
+   N-2 both Halawa-Downtown circuits                    actual  8583/ 8760  97.98%     590877 MWh  worst  164.7 | Downtown 8583 | Makalapa-Downtown 8588
+   N-2 both Halawa-Downtown circuits                    random  9690/10000  96.90%     680396 MWh  worst  194.5 | Downtown 9690 | Makalapa-Downtown 9694
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  8584/ 8760  97.99%     591306 MWh  worst  164.8 | Downtown 8584 | Halawa-Downtown 8589
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  9691/10000  96.91%     680881 MWh  worst  194.6 | Downtown 9691 | Halawa-Downtown 9695
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     853413 MWh  worst  174.9 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9998/10000  99.98%     972724 MWh  worst  205.5 | Pukele 9998 | 
+
+==== noise50: N-0 max loading actual 0.744 random 0.738
+  N-0: cases 1, with loss actual 0 random 0; with a line at its limit actual 0 random 0
+  N-1: cases 16, with loss actual 0 random 3; with a line at its limit actual 3 random 6
+  N-2: cases 128, with loss actual 9 random 37; with a line at its limit actual 53 random 80
+   N-1 one Waiau-Makalapa circuit                       random     1/10000   0.01%          3 MWh  worst    2.5 | Makalapa 1 | Waiau-Makalapa 7
+   N-1 one Halawa-Downtown circuit                      random     1/10000   0.01%          3 MWh  worst    2.8 | Downtown 1 | Halawa-Downtown 73
+   N-1 one Koolau-Pukele circuit                        random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 one Kahe-CEIP circuit + one Waiau-Makalapa circuit random     1/10000   0.01%          4 MWh  worst    3.6 | Makalapa 1 | Waiau-Makalapa 6
+   N-2 one Kahe-CEIP circuit + one Halawa-Downtown circuit random     1/10000   0.01%          0 MWh  worst    0.4 | Downtown 1 | Halawa-Downtown 78
+   N-2 one Kahe-CEIP circuit + one Koolau-Pukele circuit random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 one CEIP-Kalaeloa circuit + one Waiau-Makalapa circuit random     1/10000   0.01%         15 MWh  worst   14.7 | Makalapa 1 | CEIP-Kalaeloa 38; Waiau-Makalapa 7
+   N-2 one CEIP-Kalaeloa circuit + one Halawa-Downtown circuit random     3/10000   0.03%          5 MWh  worst    4.1 | Downtown 3 | Halawa-Downtown 66; CEIP-Kalaeloa 19
+   N-2 one CEIP-Kalaeloa circuit + one Koolau-Pukele circuit random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | CEIP-Kalaeloa 21; Koolau-Pukele 1
+   N-2 Kalaeloa-Ewa Nui + one Waiau-Makalapa circuit    random     1/10000   0.01%          9 MWh  worst    8.9 | Makalapa 1 | CEIP-Ewa Nui 3559; Waiau-Makalapa 1
+   N-2 Kalaeloa-Ewa Nui + one Halawa-Downtown circuit   random     4/10000   0.04%         22 MWh  worst   10.5 | Downtown 4 | CEIP-Ewa Nui 4547; Halawa-Downtown 75
+   N-2 Kalaeloa-Ewa Nui + one Koolau-Pukele circuit     random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | CEIP-Ewa Nui 4220; Koolau-Pukele 1
+   N-2 CEIP-Ewa Nui + one Halawa-Downtown circuit       random     4/10000   0.04%         21 MWh  worst   10.9 | Downtown 4 | Kalaeloa-Ewa Nui 2857; Halawa-Downtown 134
+   N-2 CEIP-Ewa Nui + one Koolau-Pukele circuit         random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Kalaeloa-Ewa Nui 2610; Koolau-Pukele 1
+   N-2 one Ewa Nui-Waiau circuit + one Halawa-Downtown circuit random     3/10000   0.03%         12 MWh  worst    7.0 | Downtown 3 | Halawa-Downtown 144
+   N-2 one Ewa Nui-Waiau circuit + one Koolau-Pukele circuit random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 Kahe-Waiau + one Halawa-Downtown circuit         random     3/10000   0.03%         16 MWh  worst    9.2 | Downtown 3 | Halawa-Downtown 221
+   N-2 Kahe-Waiau + one Koolau-Pukele circuit           random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit actual    15/ 8760   0.17%        123 MWh  worst   28.4 | Makalapa 15 | Waiau-Makalapa 143
+   N-2 one Kahe-Halawa circuit + one Waiau-Makalapa circuit random    65/10000   0.65%        861 MWh  worst   65.7 | Makalapa 65 | Waiau-Makalapa 192
+   N-2 one Kahe-Halawa circuit + one Koolau-Pukele circuit random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     actual  3500/ 8760  39.95%      45763 MWh  worst   45.5 | Wahiawa 3500 | 
+   N-2 Kahe-Wahiawa + Wahiawa-Waiau                     random  4440/10000  44.40%      49011 MWh  worst   51.5 | Wahiawa 4440 | 
+   N-2 Kahe-Wahiawa + one Halawa-Downtown circuit       random     3/10000   0.03%         12 MWh  worst    8.0 | Downtown 3 | Halawa-Downtown 187
+   N-2 Kahe-Wahiawa + one Koolau-Pukele circuit         random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 Wahiawa-Waiau + one Halawa-Downtown circuit      random     2/10000   0.02%          4 MWh  worst    4.2 | Downtown 2 | Halawa-Downtown 100
+   N-2 Wahiawa-Waiau + one Koolau-Pukele circuit        random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit actual     1/ 8760   0.01%          8 MWh  worst    8.1 | Makalapa 1 | Waiau-Makalapa 31
+   N-2 one Waiau-Makalapa circuit + one Waiau-Koolau circuit random     9/10000   0.09%        178 MWh  worst   49.1 | Makalapa 9 | Waiau-Makalapa 79
+   N-2 one Waiau-Makalapa circuit + Halawa-Makalapa     random     2/10000   0.02%         13 MWh  worst   12.4 | Makalapa 2 | Waiau-Makalapa 11
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit actual    44/ 8760   0.50%        416 MWh  worst   27.7 | Downtown 44 | Halawa-Downtown 136; Waiau-Makalapa 46
+   N-2 one Waiau-Makalapa circuit + one Halawa-Downtown circuit random   112/10000   1.12%       1444 MWh  worst   51.8 | Downtown 112 | Halawa-Downtown 245; Waiau-Makalapa 113
+   N-2 one Waiau-Makalapa circuit + one Koolau-Pukele circuit random     2/10000   0.02%          3 MWh  worst    2.5 | Makalapa 1; Pukele 1 | Waiau-Makalapa 7; Koolau-Pukele 1
+   N-2 both Waiau-Koolau circuits                       actual   749/ 8760   8.55%      10911 MWh  worst   65.2 | Pukele 389; Koolau 360 | Halawa-Koolau 758
+   N-2 both Waiau-Koolau circuits                       random   618/10000   6.18%      10418 MWh  worst   96.6 | Pukele 311; Koolau 307 | Halawa-Koolau 622
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         actual   754/ 8760   8.61%      10949 MWh  worst   65.2 | Pukele 399; Koolau 355 | Waiau-Koolau 760
+   N-2 one Waiau-Koolau circuit + Halawa-Koolau         random   618/10000   6.18%      10449 MWh  worst   96.6 | Pukele 316; Koolau 303 | Waiau-Koolau 623
+   N-2 one Waiau-Koolau circuit + one Koolau-Pukele circuit random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 Halawa-Koolau + one Halawa-Downtown circuit      random     4/10000   0.04%         51 MWh  worst   21.9 | Downtown 4 | Halawa-Downtown 321
+   N-2 Halawa-Koolau + one Koolau-Pukele circuit        random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 Halawa-Makalapa + one Koolau-Pukele circuit      random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 both Halawa-Downtown circuits                    actual  8387/ 8760  95.74%     593639 MWh  worst  184.0 | Downtown 8387 | Makalapa-Downtown 8393
+   N-2 both Halawa-Downtown circuits                    random  9576/10000  95.76%     682701 MWh  worst  205.5 | Downtown 9576 | Makalapa-Downtown 9581
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  actual  8389/ 8760  95.76%     594059 MWh  worst  184.0 | Downtown 8389 | Halawa-Downtown 8395
+   N-2 one Halawa-Downtown circuit + Makalapa-Downtown  random  9576/10000  95.76%     683180 MWh  worst  205.5 | Downtown 9576 | Halawa-Downtown 9582
+   N-2 one Halawa-Downtown circuit + one Koolau-Pukele circuit random     2/10000   0.02%          3 MWh  worst    2.8 | Downtown 1; Pukele 1 | Halawa-Downtown 73; Koolau-Pukele 1
+   N-2 Makalapa-Downtown + one Koolau-Pukele circuit    random     1/10000   0.01%          0 MWh  worst    0.1 | Pukele 1 | Koolau-Pukele 1
+   N-2 both Koolau-Pukele circuits                      actual  8760/ 8760 100.00%     852246 MWh  worst  189.5 | Pukele 8760 | 
+   N-2 both Koolau-Pukele circuits                      random  9995/10000  99.95%     972218 MWh  worst  210.0 | Pukele 9995 | 
+
+growth actual: first line at limit 1.6 (['Waiau-Makalapa', 'Makalapa-Downtown']), first generation shortage 1.5, first wire shortage 1.7 {'Makalapa': 1.7, 'Downtown': 1.8}
+   g 1.0 mean   743.9 peak  1054.3 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.1 mean   818.2 peak  1159.7 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.2 mean   892.6 peak  1265.1 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.3 mean   967.0 peak  1370.5 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.4 mean  1041.4 peak  1476.0 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.5 mean  1115.8 peak  1581.4 short   1.53% gen   1.53% wires   0.00% line-at-limit   0.00%
+   g 1.6 mean  1190.2 peak  1686.8 short   8.56% gen   8.56% wires   0.00% line-at-limit   0.03%
+   g 1.7 mean  1264.6 peak  1792.2 short  17.08% gen  17.07% wires   0.01% line-at-limit   1.58%
+   g 1.8 mean  1338.9 peak  1897.7 short  24.84% gen  24.67% wires   0.17% line-at-limit   6.45%
+   g 1.9 mean  1413.3 peak  2003.1 short  34.20% gen  33.26% wires   0.94% line-at-limit  15.02%
+   g 2.0 mean  1487.7 peak  2108.5 short  44.90% gen  41.93% wires   2.97% line-at-limit  28.44%
+
+growth random: first line at limit 1.5 (['Waiau-Makalapa', 'Makalapa-Downtown']), first generation shortage 1.3, first wire shortage 1.6 {'Makalapa': 1.6, 'Downtown': 1.6}
+   g 1.0 mean   743.0 peak  1216.0 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.1 mean   817.3 peak  1337.6 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.2 mean   891.6 peak  1459.2 short   0.00% gen   0.00% wires   0.00% line-at-limit   0.00%
+   g 1.3 mean   965.9 peak  1580.8 short   0.04% gen   0.04% wires   0.00% line-at-limit   0.00%
+   g 1.4 mean  1040.2 peak  1702.4 short   0.28% gen   0.28% wires   0.00% line-at-limit   0.00%
+   g 1.5 mean  1114.5 peak  1824.0 short   1.71% gen   1.71% wires   0.00% line-at-limit   0.06%
+   g 1.6 mean  1188.8 peak  1945.6 short   5.84% gen   5.83% wires   0.01% line-at-limit   0.45%
+   g 1.7 mean  1263.0 peak  2067.2 short  12.94% gen  12.90% wires   0.04% line-at-limit   2.27%
+   g 1.8 mean  1337.3 peak  2188.8 short  22.69% gen  22.39% wires   0.30% line-at-limit   7.23%
+   g 1.9 mean  1411.6 peak  2310.4 short  35.01% gen  34.15% wires   0.86% line-at-limit  15.54%
+   g 2.0 mean  1485.9 peak  2432.0 short  47.91% gen  46.64% wires   1.27% line-at-limit  26.51%
+
+% line table (base)
+CEIP--Ewa Nui & 73\% & 73\% & 1 / \num{3401} & 1 / \num{4235} & 14 / \num{50548} & 14 / \num{62724} \\
+Kalaeloa--Ewa Nui & 68\% & 68\% & 1 / \num{2359} & 1 / \num{2523} & 14 / \num{48068} & 14 / \num{56284} \\
+Halawa--Downtown & 62\% & 67\% & 1 / \num{1} & 1 / \num{32} & 13 / \num{9061} & 15 / \num{11113} \\
+CEIP--Kalaeloa & 51\% & 56\% & --- & 1 / \num{17} & 2 / \num{8767} & 14 / \num{10371} \\
+Makalapa--Downtown & 52\% & 61\% & --- & --- & 1 / \num{8663} & 1 / \num{9743} \\
+Ewa Nui--Waiau & 56\% & 57\% & --- & --- & 3 / \num{4002} & 3 / \num{4955} \\
+Waiau--Koolau & 41\% & 52\% & --- & --- & 1 / \num{702} & 1 / \num{503} \\
+Halawa--Koolau & 34\% & 39\% & --- & --- & 1 / \num{698} & 1 / \num{501} \\
+Waiau--Makalapa & 52\% & 61\% & --- & 1 / \num{4} & 3 / \num{83} & 8 / \num{295} \\
+Kahe--Halawa & 53\% & 54\% & --- & --- & --- & --- \\
+Kahe--Waiau & 49\% & 49\% & --- & --- & --- & --- \\
+Kahe--Wahiawa & 44\% & 45\% & --- & --- & --- & --- \\
+Koolau--Pukele & 39\% & 48\% & --- & --- & --- & --- \\
+Kahe--CEIP & 21\% & 34\% & --- & --- & --- & --- \\
+Wahiawa--Waiau & 16\% & 17\% & --- & --- & --- & --- \\
+Halawa--Makalapa & 11\% & 12\% & --- & --- & --- & --- \\

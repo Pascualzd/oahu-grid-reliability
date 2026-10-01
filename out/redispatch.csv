@@ -1,0 +1,3 @@
+line_lost,line_full,hours_full,extra_cost_usd_per_full_hour,island_mw_min_when_full,island_mw_max_when_not_full,Kahe_mw_n0,Kahe_mw_n1,Waiau_mw_n0,Waiau_mw_n1,Kalaeloa_mw_n0,Kalaeloa_mw_n1,Wahiawa_mw_n0,Wahiawa_mw_n1
+Kalaeloa-Ewa Nui,CEIP-Ewa Nui,3401,491.4987898657989,755.6738,785.9888000000001,545.1472185827828,484.36104176868656,26.26689326668588,87.05307008076922,306.0,306.0,0.0,0.0
+CEIP-Ewa Nui,Kalaeloa-Ewa Nui,2359,263.9924534688653,811.4565000000001,832.7429,569.5254815175942,536.8761804714652,37.869310724882865,70.51861177101013,306.0,306.0,0.0,0.0

@@ -1,0 +1,353 @@
+arm,level,line,max_loading,pct_at_limit
+actual,1.0,Kahe-CEIP,0.22609601180976852,0.0
+actual,1.0,CEIP-Kalaeloa,0.5176681290508005,0.0
+actual,1.0,Kalaeloa-Ewa Nui,0.6901265115897469,0.0
+actual,1.0,CEIP-Ewa Nui,0.7439527273100018,0.0
+actual,1.0,Ewa Nui-Waiau,0.5807694390941044,0.0
+actual,1.0,Kahe-Waiau,0.4934165516341339,0.0
+actual,1.0,Kahe-Halawa,0.5402704997595436,0.0
+actual,1.0,Kahe-Wahiawa,0.4754419183998223,0.0
+actual,1.0,Wahiawa-Waiau,0.2018980590988127,0.0
+actual,1.0,Waiau-Makalapa,0.5845041385793527,0.0
+actual,1.0,Waiau-Koolau,0.4656519701903571,0.0
+actual,1.0,Halawa-Koolau,0.40553038796229834,0.0
+actual,1.0,Halawa-Makalapa,0.14271869425172992,0.0
+actual,1.0,Halawa-Downtown,0.6498248207724319,0.0
+actual,1.0,Makalapa-Downtown,0.6069367394603336,0.0
+actual,1.0,Koolau-Pukele,0.4514788041485471,0.0
+actual,1.1,Kahe-CEIP,0.18813778357559785,0.0
+actual,1.1,CEIP-Kalaeloa,0.5065323832456884,0.0
+actual,1.1,Kalaeloa-Ewa Nui,0.6877885011097259,0.0
+actual,1.1,CEIP-Ewa Nui,0.7406260198687049,0.0
+actual,1.1,Ewa Nui-Waiau,0.591978746948601,0.0
+actual,1.1,Kahe-Waiau,0.49546737782350786,0.0
+actual,1.1,Kahe-Halawa,0.5526470049092533,0.0
+actual,1.1,Kahe-Wahiawa,0.47774133790199164,0.0
+actual,1.1,Wahiawa-Waiau,0.22253587835359423,0.0
+actual,1.1,Waiau-Makalapa,0.6902116212987929,0.0
+actual,1.1,Waiau-Koolau,0.5274408775296932,0.0
+actual,1.1,Halawa-Koolau,0.4156432589575274,0.0
+actual,1.1,Halawa-Makalapa,0.15192147480600643,0.0
+actual,1.1,Halawa-Downtown,0.7008993654814076,0.0
+actual,1.1,Makalapa-Downtown,0.6954396621603531,0.0
+actual,1.1,Koolau-Pukele,0.49662668456340187,0.0
+actual,1.2,Kahe-CEIP,0.1564802456453989,0.0
+actual,1.2,CEIP-Kalaeloa,0.49539663744057466,0.0
+actual,1.2,Kalaeloa-Ewa Nui,0.6830681581487792,0.0
+actual,1.2,CEIP-Ewa Nui,0.7339095401147244,0.0
+actual,1.2,Ewa Nui-Waiau,0.603123509860642,0.0
+actual,1.2,Kahe-Waiau,0.4975396422036596,0.0
+actual,1.2,Kahe-Halawa,0.5681276189548198,0.0
+actual,1.2,Kahe-Wahiawa,0.48004075740416124,0.0
+actual,1.2,Wahiawa-Waiau,0.23933300784764777,0.0
+actual,1.2,Waiau-Makalapa,0.7838954335093338,0.0
+actual,1.2,Waiau-Koolau,0.585356398702175,0.0
+actual,1.2,Halawa-Koolau,0.4257561299527567,0.0
+actual,1.2,Halawa-Makalapa,0.2093867852585454,0.0
+actual,1.2,Halawa-Downtown,0.7519739101903836,0.0
+actual,1.2,Makalapa-Downtown,0.7768670456410893,0.0
+actual,1.2,Koolau-Pukele,0.5417745649782564,0.0
+actual,1.3,Kahe-CEIP,0.1594671954338827,0.0
+actual,1.3,CEIP-Kalaeloa,0.5389305199558043,0.0
+actual,1.3,Kalaeloa-Ewa Nui,0.6817625631032422,0.0
+actual,1.3,CEIP-Ewa Nui,0.7320518355447816,0.0
+actual,1.3,Ewa Nui-Waiau,0.6156703497422793,0.0
+actual,1.3,Kahe-Waiau,0.49629634637234055,0.0
+actual,1.3,Kahe-Halawa,0.6036325909842916,0.0
+actual,1.3,Kahe-Wahiawa,0.4823401769063334,0.0
+actual,1.3,Wahiawa-Waiau,0.24922584335741327,0.0
+actual,1.3,Waiau-Makalapa,0.8626526806039466,0.0
+actual,1.3,Waiau-Koolau,0.6428853640136799,0.0
+actual,1.3,Halawa-Koolau,0.4422196116155155,0.0
+actual,1.3,Halawa-Makalapa,0.24578987507957392,0.0
+actual,1.3,Halawa-Downtown,0.8061255822978465,0.0
+actual,1.3,Makalapa-Downtown,0.8495106307959518,0.0
+actual,1.3,Koolau-Pukele,0.5869224453931113,0.0
+actual,1.4,Kahe-CEIP,0.1691043671275161,0.0
+actual,1.4,CEIP-Kalaeloa,0.639657177102342,0.0
+actual,1.4,Kalaeloa-Ewa Nui,0.7549132764975132,0.0
+actual,1.4,CEIP-Ewa Nui,0.7482423560092575,0.0
+actual,1.4,Ewa Nui-Waiau,0.6126068163003768,0.0
+actual,1.4,Kahe-Waiau,0.49538788574852266,0.0
+actual,1.4,Kahe-Halawa,0.6292600801213126,0.0
+actual,1.4,Kahe-Wahiawa,0.4824649820671915,0.0
+actual,1.4,Wahiawa-Waiau,0.2618638340293614,0.0
+actual,1.4,Waiau-Makalapa,0.923274999572574,0.0
+actual,1.4,Waiau-Koolau,0.6906105315609747,0.0
+actual,1.4,Halawa-Koolau,0.4550796744493084,0.0
+actual,1.4,Halawa-Makalapa,0.2667281817299609,0.0
+actual,1.4,Halawa-Downtown,0.8581123888168117,0.0
+actual,1.4,Makalapa-Downtown,0.9077825920138984,0.0
+actual,1.4,Koolau-Pukele,0.632070325807966,0.0
+actual,1.5,Kahe-CEIP,0.1828578164044777,0.0
+actual,1.5,CEIP-Kalaeloa,0.6733196202222167,0.0
+actual,1.5,Kalaeloa-Ewa Nui,0.7821039797114546,0.0
+actual,1.5,CEIP-Ewa Nui,0.7869314532091579,0.0
+actual,1.5,Ewa Nui-Waiau,0.624473209430509,0.0
+actual,1.5,Kahe-Waiau,0.4935467653643828,0.0
+actual,1.5,Kahe-Halawa,0.6666417182544708,0.0
+actual,1.5,Kahe-Wahiawa,0.47969286064726546,0.0
+actual,1.5,Wahiawa-Waiau,0.4083583665042121,0.0
+actual,1.5,Waiau-Makalapa,1.0000000000000002,0.03424657534246575
+actual,1.5,Waiau-Koolau,0.7501876975214117,0.0
+actual,1.5,Halawa-Koolau,0.49283205955823883,0.0
+actual,1.5,Halawa-Makalapa,0.314869446745405,0.0
+actual,1.5,Halawa-Downtown,0.9199618846965775,0.0
+actual,1.5,Makalapa-Downtown,0.9698637515486059,0.0
+actual,1.5,Koolau-Pukele,0.6772182062228206,0.0
+actual,1.6,Kahe-CEIP,0.1878551570114597,0.0
+actual,1.6,CEIP-Kalaeloa,0.6724418318697908,0.0
+actual,1.6,Kalaeloa-Ewa Nui,0.8305084286477362,0.0
+actual,1.6,CEIP-Ewa Nui,0.8558051566609769,0.0
+actual,1.6,Ewa Nui-Waiau,0.6607178594570942,0.0
+actual,1.6,Kahe-Waiau,0.5008809576429285,0.0
+actual,1.6,Kahe-Halawa,0.6969225569809537,0.0
+actual,1.6,Kahe-Wahiawa,0.4851100589100663,0.0
+actual,1.6,Wahiawa-Waiau,0.4214799980485525,0.0
+actual,1.6,Waiau-Makalapa,1.0000000000000022,0.2968036529680365
+actual,1.6,Waiau-Koolau,0.7752276736100033,0.0
+actual,1.6,Halawa-Koolau,0.6222996236094678,0.0
+actual,1.6,Halawa-Makalapa,0.42528701425705134,0.0
+actual,1.6,Halawa-Downtown,0.9840681031693358,0.0
+actual,1.6,Makalapa-Downtown,1.0000000000000009,0.273972602739726
+actual,1.6,Koolau-Pukele,0.7223660866376755,0.0
+actual,1.7,Kahe-CEIP,0.2619873479556737,0.0
+actual,1.7,CEIP-Kalaeloa,0.6841391764866211,0.0
+actual,1.7,Kalaeloa-Ewa Nui,0.8594989915931752,0.0
+actual,1.7,CEIP-Ewa Nui,0.897055237574693,0.0
+actual,1.7,Ewa Nui-Waiau,0.736344794050521,0.0
+actual,1.7,Kahe-Waiau,0.5004574906826542,0.0
+actual,1.7,Kahe-Halawa,0.7148890060273866,0.0
+actual,1.7,Kahe-Wahiawa,0.5122483503528211,0.0
+actual,1.7,Wahiawa-Waiau,0.43836315720306096,0.0
+actual,1.7,Waiau-Makalapa,1.0000000000000022,1.6666666666666667
+actual,1.7,Waiau-Koolau,0.7949530037971663,0.0
+actual,1.7,Halawa-Koolau,0.6754216668494692,0.0
+actual,1.7,Halawa-Makalapa,0.4545801512781301,0.0
+actual,1.7,Halawa-Downtown,1.0,0.01141552511415525
+actual,1.7,Makalapa-Downtown,1.0000000000000009,1.5182648401826484
+actual,1.7,Koolau-Pukele,0.7474543593405446,0.0
+actual,1.8,Kahe-CEIP,0.2727156350567229,0.0
+actual,1.8,CEIP-Kalaeloa,0.6902725509968235,0.0
+actual,1.8,Kalaeloa-Ewa Nui,0.8672816421279214,0.0
+actual,1.8,CEIP-Ewa Nui,0.9081290123366956,0.0
+actual,1.8,Ewa Nui-Waiau,0.7521922153549662,0.0
+actual,1.8,Kahe-Waiau,0.531768829067551,0.0
+actual,1.8,Kahe-Halawa,0.7424861291949062,0.0
+actual,1.8,Kahe-Wahiawa,0.5076213194627032,0.0
+actual,1.8,Wahiawa-Waiau,0.4752442089827812,0.0
+actual,1.8,Waiau-Makalapa,1.000000000000004,5.821917808219178
+actual,1.8,Waiau-Koolau,0.8646305989590519,0.0
+actual,1.8,Halawa-Koolau,0.7047855187951325,0.0
+actual,1.8,Halawa-Makalapa,0.47443053911317357,0.0
+actual,1.8,Halawa-Downtown,1.0000000000000004,0.3538812785388128
+actual,1.8,Makalapa-Downtown,1.000000000000001,4.54337899543379
+actual,1.8,Koolau-Pukele,0.8126618474673846,0.0
+actual,1.9,Kahe-CEIP,0.27623089864100603,0.0
+actual,1.9,CEIP-Kalaeloa,0.6993703634785002,0.0
+actual,1.9,Kalaeloa-Ewa Nui,0.8924321895263437,0.0
+actual,1.9,CEIP-Ewa Nui,0.943915213424329,0.0
+actual,1.9,Ewa Nui-Waiau,0.743832803444085,0.0
+actual,1.9,Kahe-Waiau,0.5249827962702308,0.0
+actual,1.9,Kahe-Halawa,0.7352898474840427,0.0
+actual,1.9,Kahe-Wahiawa,0.538064929802766,0.0
+actual,1.9,Wahiawa-Waiau,0.4709967934806406,0.0
+actual,1.9,Waiau-Makalapa,1.000000000000007,12.511415525114156
+actual,1.9,Waiau-Koolau,0.8720345314482285,0.0
+actual,1.9,Halawa-Koolau,0.8735818767242584,0.0
+actual,1.9,Halawa-Makalapa,0.4988781174153929,0.0
+actual,1.9,Halawa-Downtown,1.0000000000000009,1.312785388127854
+actual,1.9,Makalapa-Downtown,1.0000000000000049,10.684931506849315
+actual,1.9,Koolau-Pukele,0.8578097278822392,0.0
+actual,2.0,Kahe-CEIP,0.2782870571732446,0.0
+actual,2.0,CEIP-Kalaeloa,0.7028452588378781,0.0
+actual,2.0,Kalaeloa-Ewa Nui,0.9034054034052064,0.0
+actual,2.0,CEIP-Ewa Nui,0.9595287757148756,0.0
+actual,2.0,Ewa Nui-Waiau,0.77819544131494,0.0
+actual,2.0,Kahe-Waiau,0.5212961344029179,0.0
+actual,2.0,Kahe-Halawa,0.7455775095614766,0.0
+actual,2.0,Kahe-Wahiawa,0.5437028184487199,0.0
+actual,2.0,Wahiawa-Waiau,0.4681323962422171,0.0
+actual,2.0,Waiau-Makalapa,1.0000000000000133,20.662100456621005
+actual,2.0,Waiau-Koolau,0.9084813509110047,0.0
+actual,2.0,Halawa-Koolau,0.9639408336321466,0.0
+actual,2.0,Halawa-Makalapa,0.5189407839399504,0.0
+actual,2.0,Halawa-Downtown,1.000000000000002,2.26027397260274
+actual,2.0,Makalapa-Downtown,1.000000000000012,16.198630136986303
+actual,2.0,Koolau-Pukele,0.9029576082970939,0.0
+random,1.0,Kahe-CEIP,0.34235872085626473,0.0
+random,1.0,CEIP-Kalaeloa,0.5634317741975692,0.0
+random,1.0,Kalaeloa-Ewa Nui,0.6858356114469166,0.0
+random,1.0,CEIP-Ewa Nui,0.7378472929858204,0.0
+random,1.0,Ewa Nui-Waiau,0.5898173378430541,0.0
+random,1.0,Kahe-Waiau,0.49734516634851794,0.0
+random,1.0,Kahe-Halawa,0.5527525979661639,0.0
+random,1.0,Kahe-Wahiawa,0.48560151155021564,0.0
+random,1.0,Wahiawa-Waiau,0.2265644087389086,0.0
+random,1.0,Waiau-Makalapa,0.6576972697414349,0.0
+random,1.0,Waiau-Koolau,0.5316622456952268,0.0
+random,1.0,Halawa-Koolau,0.4325437827854315,0.0
+random,1.0,Halawa-Makalapa,0.14038719396148702,0.0
+random,1.0,Halawa-Downtown,0.6859101460029144,0.0
+random,1.0,Makalapa-Downtown,0.6623915358545002,0.0
+random,1.0,Koolau-Pukele,0.5003493378120178,0.0
+random,1.1,Kahe-CEIP,0.3160267635267425,0.0
+random,1.1,CEIP-Kalaeloa,0.5582496960246619,0.0
+random,1.1,Kalaeloa-Ewa Nui,0.6872337611758353,0.0
+random,1.1,CEIP-Ewa Nui,0.7398366917276085,0.0
+random,1.1,Ewa Nui-Waiau,0.5957006071959969,0.0
+random,1.1,Kahe-Waiau,0.4986431375178341,0.0
+random,1.1,Kahe-Halawa,0.5663773129365346,0.0
+random,1.1,Kahe-Wahiawa,0.48891689036742464,0.0
+random,1.1,Wahiawa-Waiau,0.2201055558980502,0.0
+random,1.1,Waiau-Makalapa,0.758700395068185,0.0
+random,1.1,Waiau-Koolau,0.5961787944181964,0.0
+random,1.1,Halawa-Koolau,0.4453579932629742,0.0
+random,1.1,Halawa-Makalapa,0.19837487136792256,0.0
+random,1.1,Halawa-Downtown,0.7405932232349385,0.0
+random,1.1,Makalapa-Downtown,0.7493643989746539,0.0
+random,1.1,Koolau-Pukele,0.5503842715932198,0.0
+random,1.2,Kahe-CEIP,0.3273540211612921,0.0
+random,1.2,CEIP-Kalaeloa,0.5644019539984451,0.0
+random,1.2,Kalaeloa-Ewa Nui,0.7223304615565982,0.0
+random,1.2,CEIP-Ewa Nui,0.7356799935655165,0.0
+random,1.2,Ewa Nui-Waiau,0.5940353428803535,0.0
+random,1.2,Kahe-Waiau,0.4979670046045398,0.0
+random,1.2,Kahe-Halawa,0.5896779908916361,0.0
+random,1.2,Kahe-Wahiawa,0.49223226918463386,0.0
+random,1.2,Wahiawa-Waiau,0.2403754422645753,0.0
+random,1.2,Waiau-Makalapa,0.8511711615836335,0.0
+random,1.2,Waiau-Koolau,0.6534181931473658,0.0
+random,1.2,Halawa-Koolau,0.4581722037405168,0.0
+random,1.2,Halawa-Makalapa,0.2495659513156744,0.0
+random,1.2,Halawa-Downtown,0.7952763004669626,0.0
+random,1.2,Makalapa-Downtown,0.8313162463111762,0.0
+random,1.2,Koolau-Pukele,0.6004192053744216,0.0
+random,1.3,Kahe-CEIP,0.3041603317454452,0.0
+random,1.3,CEIP-Kalaeloa,0.6297345778453223,0.0
+random,1.3,Kalaeloa-Ewa Nui,0.7565986269727888,0.0
+random,1.3,CEIP-Ewa Nui,0.7506404068371738,0.0
+random,1.3,Ewa Nui-Waiau,0.6077714579750416,0.0
+random,1.3,Kahe-Waiau,0.4967380835534573,0.0
+random,1.3,Kahe-Halawa,0.6175456352129747,0.0
+random,1.3,Kahe-Wahiawa,0.49129391658266053,0.0
+random,1.3,Wahiawa-Waiau,0.2510975332051934,0.0
+random,1.3,Waiau-Makalapa,0.9058733133009963,0.0
+random,1.3,Waiau-Koolau,0.7003425777328237,0.0
+random,1.3,Halawa-Koolau,0.4978361537204376,0.0
+random,1.3,Halawa-Makalapa,0.29380696579628485,0.0
+random,1.3,Halawa-Downtown,0.8515158888324046,0.0
+random,1.3,Makalapa-Downtown,0.8910424916516968,0.0
+random,1.3,Koolau-Pukele,0.6504541391556234,0.0
+random,1.4,Kahe-CEIP,0.28096664232959007,0.0
+random,1.4,CEIP-Kalaeloa,0.6466507007048538,0.0
+random,1.4,Kalaeloa-Ewa Nui,0.8822152058377556,0.0
+random,1.4,CEIP-Ewa Nui,0.9293776756524146,0.0
+random,1.4,Ewa Nui-Waiau,0.609539270298452,0.0
+random,1.4,Kahe-Waiau,0.5068116204547827,0.0
+random,1.4,Kahe-Halawa,0.696953312492543,0.0
+random,1.4,Kahe-Wahiawa,0.4923940643124024,0.0
+random,1.4,Wahiawa-Waiau,0.27305537696693805,0.0
+random,1.4,Waiau-Makalapa,0.9541589714498018,0.0
+random,1.4,Waiau-Koolau,0.7566680334420387,0.0
+random,1.4,Halawa-Koolau,0.5312265116364188,0.0
+random,1.4,Halawa-Makalapa,0.32759914580003546,0.0
+random,1.4,Halawa-Downtown,0.9081810674688416,0.0
+random,1.4,Makalapa-Downtown,0.9776954296492716,0.0
+random,1.4,Koolau-Pukele,0.7004890729368253,0.0
+random,1.5,Kahe-CEIP,0.25777295291374436,0.0
+random,1.5,CEIP-Kalaeloa,0.6760468143702704,0.0
+random,1.5,Kalaeloa-Ewa Nui,0.8482876000976947,0.0
+random,1.5,CEIP-Ewa Nui,0.8811027772097697,0.0
+random,1.5,Ewa Nui-Waiau,0.6893680899358601,0.0
+random,1.5,Kahe-Waiau,0.4993936477734828,0.0
+random,1.5,Kahe-Halawa,0.6995230493385445,0.0
+random,1.5,Kahe-Wahiawa,0.4901649998401355,0.0
+random,1.5,Wahiawa-Waiau,0.42213682948285286,0.0
+random,1.5,Waiau-Makalapa,1.0000000000000002,0.06
+random,1.5,Waiau-Koolau,0.8149783416969599,0.0
+random,1.5,Halawa-Koolau,0.560648110079161,0.0
+random,1.5,Halawa-Makalapa,0.47785102733285756,0.0
+random,1.5,Halawa-Downtown,0.9758698844378557,0.0
+random,1.5,Makalapa-Downtown,1.0000000000000002,0.06
+random,1.5,Koolau-Pukele,0.7505240067180268,0.0
+random,1.6,Kahe-CEIP,0.23457926349789462,0.0
+random,1.6,CEIP-Kalaeloa,0.6810041083142424,0.0
+random,1.6,Kalaeloa-Ewa Nui,0.8535030804518656,0.0
+random,1.6,CEIP-Ewa Nui,0.8885237778649953,0.0
+random,1.6,Ewa Nui-Waiau,0.6512125457911576,0.0
+random,1.6,Kahe-Waiau,0.5032976948392273,0.0
+random,1.6,Kahe-Halawa,0.7101480986531432,0.0
+random,1.6,Kahe-Wahiawa,0.5185017236783199,0.0
+random,1.6,Wahiawa-Waiau,0.44086771900737215,0.0
+random,1.6,Waiau-Makalapa,1.0000000000000013,0.58
+random,1.6,Waiau-Koolau,0.8285756008112408,0.0
+random,1.6,Halawa-Koolau,0.8231094193736631,0.0
+random,1.6,Halawa-Makalapa,0.4363334541396156,0.0
+random,1.6,Halawa-Downtown,0.9913235393830991,0.0
+random,1.6,Makalapa-Downtown,1.0000000000000004,0.29
+random,1.6,Koolau-Pukele,0.8005589404992286,0.0
+random,1.7,Kahe-CEIP,0.25553932716697186,0.0
+random,1.7,CEIP-Kalaeloa,0.6891057082377182,0.0
+random,1.7,Kalaeloa-Ewa Nui,0.8654282183488357,0.0
+random,1.7,CEIP-Ewa Nui,0.9054918134317078,0.0
+random,1.7,Ewa Nui-Waiau,0.7477493040047815,0.0
+random,1.7,Kahe-Waiau,0.4998504964321342,0.0
+random,1.7,Kahe-Halawa,0.7173936373332845,0.0
+random,1.7,Kahe-Wahiawa,0.5345548024735649,0.0
+random,1.7,Wahiawa-Waiau,0.4377693385078282,0.0
+random,1.7,Waiau-Makalapa,1.0000000000000022,2.43
+random,1.7,Waiau-Koolau,0.8366140607365732,0.0
+random,1.7,Halawa-Koolau,0.8094158494527589,0.0
+random,1.7,Halawa-Makalapa,0.4463366400150352,0.0
+random,1.7,Halawa-Downtown,1.0000000000000002,0.03
+random,1.7,Makalapa-Downtown,1.000000000000001,1.66
+random,1.7,Koolau-Pukele,0.8505938742804301,0.0
+random,1.8,Kahe-CEIP,0.2739867266379507,0.0
+random,1.8,CEIP-Kalaeloa,0.6946101693884023,0.0
+random,1.8,Kalaeloa-Ewa Nui,0.8892980726084393,0.0
+random,1.8,CEIP-Ewa Nui,0.9394557423647321,0.0
+random,1.8,Ewa Nui-Waiau,0.773377471229962,0.0
+random,1.8,Kahe-Waiau,0.5352415616043469,0.0
+random,1.8,Kahe-Halawa,0.7461826375296211,0.0
+random,1.8,Kahe-Wahiawa,0.5151144767569593,0.0
+random,1.8,Wahiawa-Waiau,0.4774178115060949,0.0
+random,1.8,Waiau-Makalapa,1.0000000000000029,6.89
+random,1.8,Waiau-Koolau,0.8863193498780083,0.0
+random,1.8,Halawa-Koolau,0.8523011105916388,0.0
+random,1.8,Halawa-Makalapa,0.48884530400032156,0.0
+random,1.8,Halawa-Downtown,1.000000000000001,0.28
+random,1.8,Makalapa-Downtown,1.000000000000002,4.37
+random,1.8,Koolau-Pukele,0.8456143365578647,0.0
+random,1.9,Kahe-CEIP,0.2808435974188849,0.0
+random,1.9,CEIP-Kalaeloa,0.7032594088670027,0.0
+random,1.9,Kalaeloa-Ewa Nui,0.8966849428987073,0.0
+random,1.9,CEIP-Ewa Nui,0.9499663694866046,0.0
+random,1.9,Ewa Nui-Waiau,0.7773802334138495,0.0
+random,1.9,Kahe-Waiau,0.5206832741039864,0.0
+random,1.9,Kahe-Halawa,0.7469878963477947,0.0
+random,1.9,Kahe-Wahiawa,0.55036229672079,0.0
+random,1.9,Wahiawa-Waiau,0.4675314730170398,0.0
+random,1.9,Waiau-Makalapa,1.0000000000000118,13.59
+random,1.9,Waiau-Koolau,0.9219256007790301,0.0
+random,1.9,Halawa-Koolau,0.9781988479797735,0.0
+random,1.9,Halawa-Makalapa,0.5010575892556755,0.0
+random,1.9,Halawa-Downtown,1.000000000000001,0.84
+random,1.9,Makalapa-Downtown,1.0000000000000075,9.38
+random,1.9,Koolau-Pukele,0.9506637418428341,0.0
+random,2.0,Kahe-CEIP,0.27733584814179246,0.0
+random,2.0,CEIP-Kalaeloa,0.6995155199469704,0.0
+random,2.0,Kalaeloa-Ewa Nui,0.9035113918589953,0.0
+random,2.0,CEIP-Ewa Nui,0.9596795845247259,0.0
+random,2.0,Ewa Nui-Waiau,0.7827168459402383,0.0
+random,2.0,Kahe-Waiau,0.5264033898910799,0.0
+random,2.0,Kahe-Halawa,0.7510493021552587,0.0
+random,2.0,Kahe-Wahiawa,0.5969911944511412,0.0
+random,2.0,Wahiawa-Waiau,0.47188595089376273,0.0
+random,2.0,Waiau-Makalapa,1.0000000000000866,21.42
+random,2.0,Waiau-Koolau,0.9999999999999999,0.01
+random,2.0,Halawa-Koolau,0.9816908252132682,0.0
+random,2.0,Halawa-Makalapa,0.5004570114737826,0.0
+random,2.0,Halawa-Downtown,1.0000000000000007,2.17
+random,2.0,Makalapa-Downtown,1.0000000000000062,15.9
+random,2.0,Koolau-Pukele,0.965333514010002,0.0

@@ -1,0 +1,25 @@
+name,bus,tech,pmax_mw,cost_usd_mwh
+H Power GEN1,Kalaeloa,municipal_waste,58.0,6.94
+H Power GEN2,Kalaeloa,municipal_waste,28.0,6.94
+Kalaeloa combined cycle,Kalaeloa,combined_cycle,220.0,94.0543
+Kahe K1,Kahe,steam,77.9,122.2769
+Kahe K2,Kahe,steam,78.1,122.2769
+Kahe K3,Kahe,steam,82.1,122.2769
+Kahe K4,Kahe,steam,87.2,122.2769
+Kahe K5,Kahe,steam,128.1,122.2769
+Kahe K6,Kahe,steam,128.7,122.2769
+Waiau W3,Waiau,steam,47.2,130.3626
+Waiau W4,Waiau,steam,47.7,130.3626
+Waiau W5,Waiau,steam,51.9,130.3626
+Waiau W6,Waiau,steam,51.8,130.3626
+Waiau W7,Waiau,steam,77.8,130.3626
+Waiau W8,Waiau,steam,77.8,130.3626
+Schofield Generating Station S1,Wahiawa,internal_combustion,8.4,173.3324
+Schofield Generating Station S2,Wahiawa,internal_combustion,8.4,173.3324
+Schofield Generating Station S3,Wahiawa,internal_combustion,8.4,173.3324
+Schofield Generating Station S4,Wahiawa,internal_combustion,8.4,173.3324
+Schofield Generating Station S5,Wahiawa,internal_combustion,8.4,173.3324
+Schofield Generating Station S6,Wahiawa,internal_combustion,8.4,173.3324
+Waiau W10,Waiau,combustion_turbine,51.2,224.8427
+Waiau W9,Waiau,combustion_turbine,51.2,224.8427
+Campbell Industrial Park CIP1,Kalaeloa,combustion_turbine,113.0,240.4723

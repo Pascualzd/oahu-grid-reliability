@@ -1,0 +1,34 @@
+================================================================================
+CONTINGENCIES  (run: base)
+================================================================================
+N-0: short hours actual 0, random 0
+  N-1 one of 2 Kahe-CEIP             actual    0 h       0.0 MWh | random     0  (14s)
+  N-1 one of 2 CEIP-Kalaeloa         actual    0 h       0.0 MWh | random     0  (19s)
+  N-1 Kalaeloa-Ewa Nui               actual    0 h       0.0 MWh | random     0  (25s)
+  N-1 CEIP-Ewa Nui                   actual    0 h       0.0 MWh | random     0  (30s)
+  N-1 one of 2 Ewa Nui-Waiau         actual    0 h       0.0 MWh | random     0  (34s)
+  N-1 Kahe-Waiau                     actual    0 h       0.0 MWh | random     0  (40s)
+  N-1 one of 3 Kahe-Halawa           actual    0 h       0.0 MWh | random     0  (44s)
+  N-1 Kahe-Wahiawa                   actual    0 h       0.0 MWh | random     0  (49s)
+  N-1 Wahiawa-Waiau                  actual    0 h       0.0 MWh | random     0  (54s)
+  N-1 one of 2 Waiau-Makalapa        actual    0 h       0.0 MWh | random     0  (59s)
+  N-1 one of 2 Waiau-Koolau          actual    0 h       0.0 MWh | random     0  (64s)
+  N-1 Halawa-Koolau                  actual    0 h       0.0 MWh | random     0  (69s)
+  N-1 Halawa-Makalapa                actual    0 h       0.0 MWh | random     0  (74s)
+  N-1 one of 2 Halawa-Downtown       actual    0 h       0.0 MWh | random     0  (79s)
+  N-1 Makalapa-Downtown              actual    0 h       0.0 MWh | random     0  (84s)
+  N-1 one of 2 Koolau-Pukele         actual    0 h       0.0 MWh | random     0  (88s)
+
+N-2 (printed only when some demand is lost):
+  N-2 Kahe-Halawa + Waiau-Makalapa                 actual    0 h       0.0 MWh | random    33  (501s)
+  N-2 Kahe-Wahiawa + Wahiawa-Waiau                 actual 3225 h   41749.7 MWh | random  4311  (538s)
+  N-2 Waiau-Makalapa + Waiau-Koolau                actual    0 h       0.0 MWh | random     8  (614s)
+  N-2 Waiau-Makalapa + Halawa-Downtown             actual    1 h       4.7 MWh | random    53  (628s)
+  N-2 two of 2 Waiau-Koolau                        actual  691 h    6892.6 MWh | random   491  (643s)
+  N-2 Waiau-Koolau + Halawa-Koolau                 actual  692 h    6927.1 MWh | random   493  (648s)
+  N-2 Halawa-Koolau + Halawa-Downtown              actual    0 h       0.0 MWh | random     1  (678s)
+  N-2 two of 2 Halawa-Downtown                     actual 8661 h  590276.2 MWh | random  9739  (707s)
+  N-2 Halawa-Downtown + Makalapa-Downtown          actual 8661 h  590709.2 MWh | random  9740  (712s)
+  N-2 two of 2 Koolau-Pukele                       actual 8760 h  854579.4 MWh | random  9999  (726s)
+
+145 outage cases (290 rows) in 727 s -> /tmp/claude-0/-home-claude/d763450d-2c10-555b-89ad-10ea326140b1/scratchpad/fp/paper2/out

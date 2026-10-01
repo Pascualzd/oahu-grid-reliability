@@ -1,0 +1,3191 @@
+kind,outage,arm,bus,hours_short,mwh_short,worst_mw
+N-0,none,actual,Kahe,0,0.0,0.0
+N-0,none,actual,Kalaeloa,0,0.0,0.0
+N-0,none,actual,CEIP,0,0.0,0.0
+N-0,none,actual,Ewa Nui,0,0.0,0.0
+N-0,none,actual,Waiau,0,0.0,0.0
+N-0,none,actual,Wahiawa,0,0.0,0.0
+N-0,none,actual,Halawa,0,0.0,0.0
+N-0,none,actual,Makalapa,0,0.0,0.0
+N-0,none,actual,Downtown,0,0.0,0.0
+N-0,none,actual,Koolau,0,0.0,0.0
+N-0,none,actual,Pukele,0,0.0,0.0
+N-0,none,random,Kahe,0,0.0,0.0
+N-0,none,random,Kalaeloa,0,0.0,0.0
+N-0,none,random,CEIP,0,0.0,0.0
+N-0,none,random,Ewa Nui,0,0.0,0.0
+N-0,none,random,Waiau,0,0.0,0.0
+N-0,none,random,Wahiawa,0,0.0,0.0
+N-0,none,random,Halawa,0,0.0,0.0
+N-0,none,random,Makalapa,0,0.0,0.0
+N-0,none,random,Downtown,0,0.0,0.0
+N-0,none,random,Koolau,0,0.0,0.0
+N-0,none,random,Pukele,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Kahe,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,CEIP,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Waiau,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Halawa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Downtown,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Koolau,0,0.0,0.0
+N-1,one of 2 Kahe-CEIP,random,Pukele,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Kahe,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,CEIP,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Waiau,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Halawa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Downtown,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Koolau,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,actual,Pukele,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Kahe,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,CEIP,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Waiau,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Halawa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Makalapa,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Downtown,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Koolau,0,0.0,0.0
+N-1,one of 2 CEIP-Kalaeloa,random,Pukele,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Kahe,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,CEIP,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Waiau,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Halawa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Downtown,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Koolau,0,0.0,0.0
+N-1,Kalaeloa-Ewa Nui,random,Pukele,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-1,CEIP-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Kahe,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,CEIP,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Waiau,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Halawa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Downtown,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Koolau,0,0.0,0.0
+N-1,CEIP-Ewa Nui,random,Pukele,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-1,one of 2 Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-1,Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-1,Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-1,Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-1,Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-1,Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-1,Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-1,Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-1,Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-1,Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-1,Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-1,Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-1,Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-1,Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-1,one of 3 Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-1,Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-1,Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-1,Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-1,Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-1,one of 2 Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-1,one of 2 Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-1,Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-1,Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-1,Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-1,Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-1,Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-1,Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-1,Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-1,Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-1,Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-1,Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-1,Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-1,Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-1,Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-1,Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-1,Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-1,Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-1,one of 2 Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-1,Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-1,Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-1,Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-1,one of 2 Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Downtown,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Koolau,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,actual,Pukele,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Kahe,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,CEIP,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Waiau,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Halawa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Downtown,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Koolau,0,0.0,0.0
+N-2,two of 2 Kahe-CEIP,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Kalaeloa,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kalaeloa-Ewa Nui,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + CEIP-Ewa Nui,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Kahe-CEIP + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Kahe,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,CEIP,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Waiau,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Halawa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Downtown,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Koolau,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,actual,Pukele,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Kahe,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,CEIP,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Waiau,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Halawa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Makalapa,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Downtown,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Koolau,0,0.0,0.0
+N-2,two of 2 CEIP-Kalaeloa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kalaeloa-Ewa Nui,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + CEIP-Ewa Nui,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Makalapa,1,3.7205080823730245,3.7205080823730245
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,CEIP-Kalaeloa + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + CEIP-Ewa Nui,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Downtown,1,0.08433234645338063,0.08433234645338063
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Kalaeloa-Ewa Nui + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Downtown,1,0.42540511425844757,0.42540511425844757
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,CEIP-Ewa Nui + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Downtown,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Koolau,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,actual,Pukele,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Kahe,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,CEIP,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Waiau,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Halawa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Downtown,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Koolau,0,0.0,0.0
+N-2,two of 2 Ewa Nui-Waiau,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Waiau,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Ewa Nui-Waiau + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Kahe-Waiau + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Kahe,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,CEIP,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Waiau,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Wahiawa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Halawa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Makalapa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Downtown,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Koolau,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,actual,Pukele,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Kahe,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Kalaeloa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,CEIP,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Ewa Nui,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Waiau,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Wahiawa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Halawa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Makalapa,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Downtown,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Koolau,0,0.0,0.0
+N-2,two of 3 Kahe-Halawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Kahe-Wahiawa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Makalapa,1,8.392521400234891,8.392521400234891
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Makalapa,44,574.0340933225859,54.52519746328738
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Kahe-Halawa + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Wahiawa,3318,42681.93173225045,35.343367873128685
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Wahiawa,4345,44281.697426965366,48.91045303177837
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Wahiawa-Waiau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Kahe-Wahiawa + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Wahiawa-Waiau + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Kahe,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,CEIP,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Waiau,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Halawa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Downtown,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Koolau,0,0.0,0.0
+N-2,two of 2 Waiau-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Makalapa,9,118.27543092953147,36.34788129888012
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Waiau-Koolau,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Koolau,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Makalapa,1,5.726764035773859,5.726764035773859
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Downtown,8,23.306534055657444,9.073492352277762
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Downtown,69,821.5770426764368,41.93285346197336
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Waiau-Makalapa + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Downtown,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,actual,Koolau,385,4337.186596399918,45.65916745381142
+N-2,two of 2 Waiau-Koolau,actual,Pukele,348,3664.5693171462185,37.64369820778024
+N-2,two of 2 Waiau-Koolau,random,Kahe,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,CEIP,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Waiau,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Halawa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Downtown,0,0.0,0.0
+N-2,two of 2 Waiau-Koolau,random,Koolau,209,3585.097587472818,64.53020217022029
+N-2,two of 2 Waiau-Koolau,random,Pukele,299,4535.0123271990415,93.8206353558009
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Koolau,357,3813.397460867744,45.70916745381169
+N-2,Waiau-Koolau + Halawa-Koolau,actual,Pukele,377,4225.046664812731,36.82553460381846
+N-2,Waiau-Koolau + Halawa-Koolau,random,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Koolau,random,Koolau,253,4135.5643993721615,68.94715695320504
+N-2,Waiau-Koolau + Halawa-Koolau,random,Pukele,258,4010.0390673490274,93.87063535580093
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Waiau-Koolau + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Makalapa,random,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Downtown,1,10.438646790796575,10.438646790796575
+N-2,Halawa-Koolau + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Halawa-Koolau + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Halawa-Makalapa + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Downtown,8583,590876.8480986338,164.7113630421635
+N-2,two of 2 Halawa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Kahe,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,CEIP,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Waiau,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Halawa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Downtown,9690,680396.3290954541,194.50487526199933
+N-2,two of 2 Halawa-Downtown,random,Koolau,0,0.0,0.0
+N-2,two of 2 Halawa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Downtown,8584,591306.0259507454,164.76136304216354
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Kahe,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,CEIP,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Waiau,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Halawa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Downtown,9691,680880.8459501792,194.55487526199934
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Koolau,0,0.0,0.0
+N-2,Halawa-Downtown + Makalapa-Downtown,random,Pukele,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Halawa-Downtown + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,actual,Pukele,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,Makalapa-Downtown + Koolau-Pukele,random,Pukele,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Kahe,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,CEIP,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Waiau,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Wahiawa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Halawa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Makalapa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Downtown,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Koolau,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,actual,Pukele,8760,853412.8748914571,174.8837770505726
+N-2,two of 2 Koolau-Pukele,random,Kahe,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Kalaeloa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,CEIP,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Ewa Nui,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Waiau,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Wahiawa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Halawa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Makalapa,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Downtown,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Koolau,0,0.0,0.0
+N-2,two of 2 Koolau-Pukele,random,Pukele,9998,972724.4073752112,205.5208794239781

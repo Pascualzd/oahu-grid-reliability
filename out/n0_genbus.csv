@@ -1,0 +1,34 @@
+bus,arm,min_mw,mean_mw,max_mw
+Kahe,actual,166.5806,427.6611,582.1000
+Kalaeloa,actual,306.0000,306.0000,306.0000
+CEIP,actual,0.0000,0.0000,0.0000
+Ewa Nui,actual,0.0000,0.0000,0.0000
+Waiau,actual,0.0000,10.1979,166.1575
+Wahiawa,actual,0.0000,0.0000,0.0000
+Halawa,actual,0.0000,0.0000,0.0000
+Makalapa,actual,0.0000,0.0000,0.0000
+Downtown,actual,0.0000,0.0000,0.0000
+Koolau,actual,0.0000,0.0000,0.0000
+Pukele,actual,0.0000,0.0000,0.0000
+Kahe,fitted,257.4709,437.5460,582.1000
+Kalaeloa,fitted,306.0000,306.0000,306.0000
+CEIP,fitted,0.0000,0.0000,0.0000
+Ewa Nui,fitted,0.0000,0.0000,0.0000
+Waiau,fitted,0.0000,0.0537,72.0970
+Wahiawa,fitted,0.0000,0.0000,0.0000
+Halawa,fitted,0.0000,0.0000,0.0000
+Makalapa,fitted,0.0000,0.0000,0.0000
+Downtown,fitted,0.0000,0.0000,0.0000
+Koolau,fitted,0.0000,0.0000,0.0000
+Pukele,fitted,0.0000,0.0000,0.0000
+Kahe,corr,0.0000,429.2889,582.1000
+Kalaeloa,corr,247.9950,305.9942,306.0000
+CEIP,corr,0.0000,0.0000,0.0000
+Ewa Nui,corr,0.0000,0.0000,0.0000
+Waiau,corr,0.0000,7.6872,327.8949
+Wahiawa,corr,0.0000,0.0000,0.0000
+Halawa,corr,0.0000,0.0000,0.0000
+Makalapa,corr,0.0000,0.0000,0.0000
+Downtown,corr,0.0000,0.0000,0.0000
+Koolau,corr,0.0000,0.0000,0.0000
+Pukele,corr,0.0000,0.0000,0.0000

@@ -1,0 +1,12 @@
+bus,latitude,longitude,hifld_names,what_it_is,serves,location_source
+Kahe,21.35549,-158.12769,KAHE 1; KAHE 2,Kahe generating station switchyard,Waianae coast (via 46 kV),HIFLD transmission lines: shared line end of the named substation
+Kalaeloa,21.30214,-158.09704,KALAELOA; AES,AES switching station and Kalaeloa plant,none -- generation only,HIFLD transmission lines: shared line end of the named substation
+CEIP,21.32758,-158.09681,CEIP,Campbell Estate Industrial Park substation,"Campbell Industrial Park, Kapolei",HIFLD transmission lines: shared line end of the named substation
+Ewa Nui,21.37196,-158.04574,EWA NUI,Ewa Nui substation,"Ewa, Ewa Beach, Kapolei",HIFLD transmission lines: shared line end of the named substation
+Waiau,21.38929,-157.96044,WAIAU 1,Waiau generating station and substation,"Pearl City, Waipahu, Mililani",HIFLD transmission lines: shared line end of the named substation
+Wahiawa,21.49253,-158.02450,WAHIAWA,Wahiawa substation,"Wahiawa, Schofield, the North Shore",HIFLD transmission lines: shared line end of the named substation
+Halawa,21.37954,-157.88264,HAIAWA,Halawa substation,"Aiea, Halawa, Moanalua",HIFLD transmission lines: shared line end of the named substation
+Makalapa,21.35750,-157.92725,MAKALAPA,Makalapa substation,"Pearl Harbor, Hickam, Salt Lake",HIFLD transmission lines: shared line end of the named substation
+Downtown,21.31789,-157.86729,KEWALO,"Iwilei, School St, Archer, Kewalo, Kamoku (merged)","downtown, Kalihi, Kaka'ako, Ala Moana",HIFLD transmission lines: shared line end of the named substation
+Koolau,21.38386,-157.79395,KOOLAU,Koolau substation,"Kaneohe, Kailua, the windward coast",HIFLD transmission lines: shared line end of the named substation
+Pukele,21.31291,-157.78674,PUKELE,Pukele substation,"Manoa, Kaimuki, Waikiki, Kahala, Hawaii Kai",HIFLD transmission lines: shared line end of the named substation

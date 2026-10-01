@@ -1,0 +1,11 @@
+# Downloaded on first run by build_demand.py (demand_shapes.get) -- not committed.
+sources/cache/
+# Large per-hour matrices written by run_all.jl; out/n0_*.csv keeps what the paper uses.
+out/*_by_line_*.csv
+out/*_by_bus_*.csv
+out/genbus_by_hour_*.csv
+# LaTeX and Python build files
+paper.aux
+paper.log
+paper.out
+__pycache__/
